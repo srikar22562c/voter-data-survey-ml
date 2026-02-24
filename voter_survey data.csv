@@ -1,0 +1,1001 @@
+respondent_id,constituency,age,gender,education,occupation,income_bracket,urban_rural,port_development,infrastructure,welfare_programs,corruption_concern,education_quality,leader_image,national_issues,law_and_order,environment_concern,transport_public,housing_affordability,women_safety,small_business_support,past_vote,vote_intention
+1,Visakhapatnam (Vizag),56,Male,Secondary,Self-Employed,Low,Urban,5,3,4,2,4,4,3,3,4,4,5,4,5,YSRCP,YSRCP
+2,Visakhapatnam (Vizag),69,Female,Secondary,Private Job,Middle,Urban,5,4,3,4,4,4,3,3,4,3,4,4,4,YSRCP,TDP
+3,Visakhapatnam (Vizag),46,Male,Secondary,Government Employee,Low,Rural,4,4,3,4,4,4,4,5,3,3,4,3,3,BJP,BJP
+4,Visakhapatnam (Vizag),32,Female,Secondary,Government Employee,High,Urban,4,4,4,3,4,4,3,3,4,3,4,5,4,TDP,YSRCP
+5,Visakhapatnam (Vizag),60,Female,Secondary,Self-Employed,Low,Rural,4,5,3,3,3,4,5,4,3,4,4,4,4,BJP,BJP
+6,Visakhapatnam (Vizag),25,Male,Graduate,Private Job,Low,Coastal,4,4,4,2,4,5,3,3,4,4,4,4,4,YSRCP,YSRCP
+7,Visakhapatnam (Vizag),78,Male,Secondary,Student,Middle,Rural,4,3,3,3,3,4,5,4,3,4,3,3,3,BJP,BJP
+8,Visakhapatnam (Vizag),38,Male,Graduate,Private Job,High,Urban,5,4,5,2,4,3,3,3,3,3,3,4,4,TDP,YSRCP
+9,Visakhapatnam (Vizag),56,Male,Postgraduate,Student,Low,Urban,3,4,4,4,4,4,3,4,3,4,3,5,4,None,JanaSena
+10,Visakhapatnam (Vizag),75,Male,Secondary,Self-Employed,Low,Urban,4,4,4,3,4,3,3,4,3,4,4,4,4,TDP,TDP
+11,Visakhapatnam (Vizag),36,Female,Graduate,Private Job,Low,Urban,4,4,4,2,4,4,3,4,3,4,4,4,3,TDP,YSRCP
+12,Visakhapatnam (Vizag),40,Female,Primary,Self-Employed,Low,Urban,5,4,4,3,4,5,3,3,4,4,4,4,4,YSRCP,YSRCP
+13,Visakhapatnam (Vizag),28,Female,Graduate,Fisherman,Low,Coastal,4,5,3,4,5,4,2,4,3,4,4,5,4,TDP,TDP
+14,Visakhapatnam (Vizag),28,Female,Secondary,Fisherman,Middle,Urban,3,3,2,3,4,5,4,3,3,3,4,4,4,YSRCP,JanaSena
+15,Visakhapatnam (Vizag),41,Female,Postgraduate,Fisherman,Low,Urban,4,5,5,2,3,5,3,3,4,4,4,4,3,YSRCP,YSRCP
+16,Visakhapatnam (Vizag),70,Female,Graduate,Private Job,Low,Rural,5,4,4,3,4,4,3,3,2,4,3,4,4,YSRCP,YSRCP
+17,Visakhapatnam (Vizag),53,Female,Secondary,Government Employee,Middle,Rural,4,4,3,4,3,4,4,4,4,4,4,4,3,JanaSena,TDP
+18,Visakhapatnam (Vizag),57,Male,Primary,Fisherman,Low,Urban,4,3,4,3,3,4,4,4,3,4,3,4,4,TDP,TDP
+19,Visakhapatnam (Vizag),41,Male,Postgraduate,Fisherman,Low,Coastal,4,5,3,3,3,4,4,4,3,4,3,4,4,TDP,JanaSena
+20,Visakhapatnam (Vizag),20,Male,Graduate,Self-Employed,Low,Urban,4,4,3,5,4,4,5,5,4,4,3,3,3,BJP,BJP
+21,Visakhapatnam (Vizag),39,Male,Secondary,Self-Employed,High,Rural,3,4,3,2,4,5,3,3,3,4,3,4,4,YSRCP,YSRCP
+22,Visakhapatnam (Vizag),70,Male,Secondary,Self-Employed,Low,Coastal,4,3,4,3,4,4,2,3,5,4,4,4,4,BJP,JanaSena
+23,Visakhapatnam (Vizag),19,Male,Graduate,Self-Employed,Middle,Rural,4,4,4,4,4,4,2,3,4,5,4,3,4,TDP,BJP
+24,Visakhapatnam (Vizag),41,Female,Secondary,Student,Middle,Rural,4,5,5,2,4,4,3,3,3,4,4,4,5,TDP,YSRCP
+25,Visakhapatnam (Vizag),61,Female,Postgraduate,Fisherman,Low,Urban,4,3,3,4,4,3,5,4,3,4,3,3,4,BJP,BJP
+26,Visakhapatnam (Vizag),47,Male,Secondary,Private Job,High,Urban,5,4,3,3,4,3,3,4,4,4,3,3,4,YSRCP,YSRCP
+27,Visakhapatnam (Vizag),55,Male,Primary,Student,Low,Rural,5,5,5,3,4,5,2,4,4,4,3,4,3,YSRCP,YSRCP
+28,Visakhapatnam (Vizag),19,Male,Graduate,Private Job,Low,Urban,3,5,3,4,4,4,3,3,3,4,4,4,5,None,TDP
+29,Visakhapatnam (Vizag),77,Male,Secondary,Government Employee,Middle,Coastal,4,4,5,2,4,4,2,3,3,2,3,4,3,YSRCP,YSRCP
+30,Visakhapatnam (Vizag),38,Male,Secondary,Fisherman,Middle,Urban,4,4,4,3,3,5,3,3,3,4,4,4,4,TDP,TDP
+31,Visakhapatnam (Vizag),50,Female,Primary,Private Job,Middle,Urban,3,4,4,4,3,4,3,3,4,4,4,4,3,JanaSena,JanaSena
+32,Visakhapatnam (Vizag),29,Male,Primary,Private Job,Low,Urban,4,4,4,2,4,4,3,3,3,4,3,3,4,YSRCP,YSRCP
+33,Visakhapatnam (Vizag),75,Female,Graduate,Government Employee,Middle,Urban,4,5,4,3,4,4,4,3,3,4,3,4,5,TDP,TDP
+34,Visakhapatnam (Vizag),39,Female,Secondary,Government Employee,Middle,Rural,3,4,2,5,3,3,4,4,3,3,4,4,3,JanaSena,BJP
+35,Visakhapatnam (Vizag),78,Male,Graduate,Government Employee,Low,Rural,4,4,4,3,4,4,3,4,4,3,3,4,3,YSRCP,JanaSena
+36,Visakhapatnam (Vizag),61,Female,Graduate,Fisherman,Low,Rural,4,4,4,4,4,3,3,3,3,3,4,4,4,TDP,TDP
+37,Visakhapatnam (Vizag),42,Female,Graduate,Fisherman,Low,Coastal,3,3,4,4,4,4,4,4,4,4,4,4,5,TDP,TDP
+38,Visakhapatnam (Vizag),66,Male,Secondary,Self-Employed,Low,Coastal,5,4,3,4,5,4,3,4,4,4,4,3,5,TDP,TDP
+39,Visakhapatnam (Vizag),44,Male,Secondary,Government Employee,Middle,Coastal,3,3,4,3,4,5,4,4,4,3,4,4,3,BJP,JanaSena
+40,Visakhapatnam (Vizag),76,Female,Postgraduate,Fisherman,Low,Urban,4,3,5,4,3,5,2,3,4,4,4,4,3,JanaSena,JanaSena
+41,Visakhapatnam (Vizag),59,Female,Graduate,Self-Employed,High,Rural,4,5,4,2,4,4,3,3,4,3,3,4,3,TDP,YSRCP
+42,Visakhapatnam (Vizag),45,Female,Graduate,Private Job,Low,Urban,4,4,4,3,3,4,3,5,3,4,4,3,4,YSRCP,TDP
+43,Visakhapatnam (Vizag),77,Female,Secondary,Private Job,Middle,Urban,3,4,3,2,5,4,4,3,3,3,4,3,4,TDP,TDP
+44,Visakhapatnam (Vizag),33,Female,Secondary,Fisherman,Low,Rural,4,4,3,4,3,4,4,4,3,3,4,3,4,BJP,YSRCP
+45,Visakhapatnam (Vizag),32,Female,Graduate,Student,Low,Urban,4,3,3,4,3,3,4,3,3,4,3,4,4,TDP,TDP
+46,Visakhapatnam (Vizag),79,Female,Postgraduate,Government Employee,Low,Urban,4,4,3,3,3,4,4,5,3,3,4,4,4,BJP,BJP
+47,Visakhapatnam (Vizag),79,Female,Graduate,Private Job,Low,Urban,3,3,4,2,2,4,3,3,4,4,3,4,4,None,JanaSena
+48,Visakhapatnam (Vizag),64,Female,Graduate,Self-Employed,Middle,Urban,4,4,4,3,4,4,3,3,3,3,4,4,4,YSRCP,YSRCP
+49,Visakhapatnam (Vizag),79,Male,Graduate,Private Job,High,Coastal,4,4,4,3,4,4,3,3,4,5,4,3,4,BJP,YSRCP
+50,Visakhapatnam (Vizag),68,Female,Primary,Private Job,Middle,Urban,4,4,2,3,4,3,4,3,3,4,5,4,5,TDP,TDP
+51,Visakhapatnam (Vizag),61,Female,Secondary,Fisherman,Low,Urban,5,4,4,2,4,4,3,3,3,4,3,4,3,YSRCP,YSRCP
+52,Visakhapatnam (Vizag),72,Male,Secondary,Private Job,Low,Urban,4,4,4,2,4,4,3,4,4,4,4,4,4,TDP,YSRCP
+53,Visakhapatnam (Vizag),69,Female,Secondary,Fisherman,Low,Urban,5,4,5,3,4,4,3,3,4,4,4,4,5,YSRCP,YSRCP
+54,Visakhapatnam (Vizag),74,Male,Postgraduate,Government Employee,Middle,Coastal,4,3,3,4,3,3,3,5,3,3,4,4,4,BJP,JanaSena
+55,Visakhapatnam (Vizag),20,Female,Secondary,Self-Employed,Middle,Urban,2,4,3,3,3,5,3,4,3,4,3,4,3,JanaSena,JanaSena
+56,Visakhapatnam (Vizag),54,Female,Secondary,Private Job,High,Rural,4,4,4,4,4,5,3,4,4,5,5,4,4,TDP,TDP
+57,Visakhapatnam (Vizag),68,Female,Secondary,Private Job,Low,Rural,5,4,3,4,4,4,4,4,4,4,4,3,4,TDP,TDP
+58,Visakhapatnam (Vizag),24,Male,Secondary,Fisherman,Middle,Coastal,4,4,5,2,4,4,3,3,3,4,4,4,4,None,YSRCP
+59,Visakhapatnam (Vizag),38,Female,Secondary,Private Job,Middle,Rural,3,3,2,4,4,3,5,3,4,3,3,3,4,BJP,BJP
+60,Visakhapatnam (Vizag),26,Female,Secondary,Private Job,Middle,Coastal,3,5,3,5,3,4,5,4,3,4,3,3,3,BJP,BJP
+61,Visakhapatnam (Vizag),56,Male,Graduate,Student,Middle,Urban,3,5,3,3,3,5,5,3,3,4,4,4,5,TDP,TDP
+62,Visakhapatnam (Vizag),35,Male,Secondary,Fisherman,Middle,Urban,4,4,4,2,5,5,3,4,4,4,4,3,3,YSRCP,YSRCP
+63,Visakhapatnam (Vizag),21,Female,Graduate,Student,Middle,Urban,5,3,4,2,4,5,3,3,4,4,4,3,4,YSRCP,YSRCP
+64,Visakhapatnam (Vizag),42,Male,Primary,Self-Employed,Low,Coastal,5,4,4,3,4,5,3,3,3,3,4,3,3,YSRCP,YSRCP
+65,Visakhapatnam (Vizag),77,Male,Primary,Private Job,Middle,Urban,3,4,3,3,3,4,4,3,4,5,4,4,3,TDP,TDP
+66,Visakhapatnam (Vizag),31,Female,Secondary,Self-Employed,Low,Urban,3,4,2,4,4,3,5,4,3,3,3,4,4,TDP,BJP
+67,Visakhapatnam (Vizag),67,Male,Graduate,Government Employee,Middle,Urban,4,3,4,4,4,4,2,3,4,5,3,4,4,JanaSena,JanaSena
+68,Visakhapatnam (Vizag),75,Female,Graduate,Government Employee,Low,Urban,4,4,3,3,3,4,3,3,4,4,4,4,4,TDP,TDP
+69,Visakhapatnam (Vizag),26,Male,Secondary,Private Job,Middle,Urban,4,4,3,4,3,3,4,4,2,4,3,2,3,BJP,BJP
+70,Visakhapatnam (Vizag),43,Female,Secondary,Private Job,High,Coastal,3,3,4,3,3,4,3,4,3,3,3,4,4,JanaSena,JanaSena
+71,Visakhapatnam (Vizag),70,Male,Graduate,Private Job,Middle,Urban,3,5,4,2,5,5,3,3,3,4,3,3,4,None,YSRCP
+72,Visakhapatnam (Vizag),19,Female,Primary,Private Job,Middle,Rural,5,4,3,3,5,4,2,3,4,4,3,5,4,TDP,TDP
+73,Visakhapatnam (Vizag),37,Male,Secondary,Private Job,Middle,Rural,4,3,4,3,3,4,4,3,4,3,3,4,3,JanaSena,JanaSena
+74,Visakhapatnam (Vizag),45,Female,Graduate,Government Employee,Middle,Urban,4,5,5,2,3,4,3,3,3,3,4,4,3,TDP,YSRCP
+75,Visakhapatnam (Vizag),64,Male,Graduate,Fisherman,Middle,Urban,4,4,5,3,3,5,3,4,3,4,3,4,3,JanaSena,BJP
+76,Visakhapatnam (Vizag),77,Female,Secondary,Self-Employed,Middle,Urban,4,4,4,3,4,5,3,3,3,4,2,4,3,JanaSena,JanaSena
+77,Visakhapatnam (Vizag),24,Male,Postgraduate,Student,Low,Urban,3,4,3,3,4,3,4,4,3,4,2,4,4,YSRCP,BJP
+78,Visakhapatnam (Vizag),61,Female,Graduate,Private Job,High,Rural,4,4,3,3,4,4,4,5,3,4,3,3,4,BJP,BJP
+79,Visakhapatnam (Vizag),78,Female,Secondary,Fisherman,High,Urban,4,4,3,5,4,4,4,4,2,3,4,3,3,BJP,BJP
+80,Visakhapatnam (Vizag),25,Male,Graduate,Self-Employed,Middle,Urban,5,3,4,4,3,4,3,5,3,3,3,4,3,BJP,BJP
+81,Visakhapatnam (Vizag),64,Female,Graduate,Self-Employed,Low,Rural,5,5,4,4,4,4,3,3,3,4,3,4,5,YSRCP,YSRCP
+82,Visakhapatnam (Vizag),52,Male,Secondary,Student,Low,Coastal,5,4,5,2,4,4,3,3,4,4,3,3,4,TDP,YSRCP
+83,Visakhapatnam (Vizag),31,Male,Secondary,Private Job,Middle,Coastal,4,4,5,3,3,4,3,3,4,4,3,4,4,TDP,YSRCP
+84,Visakhapatnam (Vizag),34,Male,Secondary,Private Job,Low,Coastal,3,3,3,4,4,3,5,5,3,3,4,3,3,YSRCP,BJP
+85,Visakhapatnam (Vizag),53,Female,Graduate,Fisherman,Middle,Coastal,4,4,3,3,4,4,3,3,4,5,4,3,4,YSRCP,YSRCP
+86,Visakhapatnam (Vizag),67,Female,Secondary,Fisherman,Middle,Urban,3,5,4,2,3,4,3,3,3,4,3,4,4,YSRCP,YSRCP
+87,Visakhapatnam (Vizag),57,Male,Graduate,Student,Low,Coastal,5,4,4,2,5,4,4,4,3,4,4,3,3,YSRCP,YSRCP
+88,Visakhapatnam (Vizag),21,Female,Graduate,Student,High,Urban,4,5,4,4,3,4,5,4,3,3,3,4,3,YSRCP,BJP
+89,Visakhapatnam (Vizag),19,Male,Primary,Government Employee,Middle,Rural,3,3,4,4,4,4,3,2,4,4,3,4,4,JanaSena,JanaSena
+90,Visakhapatnam (Vizag),79,Male,Graduate,Self-Employed,Middle,Rural,4,4,3,3,3,5,3,3,3,4,3,4,4,JanaSena,JanaSena
+91,Visakhapatnam (Vizag),23,Male,Secondary,Government Employee,Middle,Urban,5,5,4,4,5,4,4,4,3,4,5,4,4,BJP,TDP
+92,Visakhapatnam (Vizag),71,Male,Graduate,Private Job,Low,Coastal,3,4,4,4,3,4,3,3,3,3,3,5,4,JanaSena,JanaSena
+93,Visakhapatnam (Vizag),59,Male,Graduate,Private Job,Middle,Coastal,4,4,2,4,3,3,4,4,3,3,3,5,3,BJP,YSRCP
+94,Visakhapatnam (Vizag),21,Female,Secondary,Self-Employed,Low,Urban,4,4,4,3,4,3,3,3,3,4,3,4,4,YSRCP,TDP
+95,Visakhapatnam (Vizag),71,Male,Secondary,Fisherman,High,Coastal,4,4,4,4,5,4,3,3,5,4,4,4,4,TDP,TDP
+96,Visakhapatnam (Vizag),46,Male,Secondary,Self-Employed,Middle,Urban,4,5,4,2,4,4,3,3,4,4,4,4,4,YSRCP,YSRCP
+97,Visakhapatnam (Vizag),35,Male,Primary,Self-Employed,Low,Rural,5,3,4,3,4,5,4,3,4,4,3,3,3,TDP,JanaSena
+98,Visakhapatnam (Vizag),43,Male,Secondary,Fisherman,Middle,Urban,3,3,4,4,4,5,2,4,3,4,5,3,4,TDP,TDP
+99,Visakhapatnam (Vizag),61,Female,Secondary,Government Employee,Middle,Rural,4,3,4,4,4,3,4,3,5,5,3,3,4,TDP,TDP
+100,Visakhapatnam (Vizag),51,Male,Postgraduate,Self-Employed,Low,Coastal,3,3,2,5,4,4,5,4,3,4,3,4,3,None,TDP
+101,Visakhapatnam (Vizag),27,Female,Secondary,Government Employee,High,Coastal,4,4,5,2,3,3,3,3,3,4,3,5,5,BJP,YSRCP
+102,Visakhapatnam (Vizag),79,Female,Secondary,Self-Employed,Low,Coastal,5,4,5,3,4,4,4,3,4,4,4,4,3,YSRCP,YSRCP
+103,Visakhapatnam (Vizag),53,Female,Graduate,Self-Employed,Low,Urban,5,4,3,4,4,3,3,3,4,4,4,4,3,TDP,TDP
+104,Visakhapatnam (Vizag),31,Female,Primary,Private Job,Middle,Coastal,5,4,3,3,4,5,3,4,3,3,3,4,4,YSRCP,YSRCP
+105,Visakhapatnam (Vizag),48,Male,Postgraduate,Private Job,Middle,Urban,3,3,3,5,3,3,4,4,3,4,3,4,4,BJP,BJP
+106,Visakhapatnam (Vizag),65,Female,Graduate,Self-Employed,Middle,Coastal,3,4,3,3,5,4,4,3,4,4,4,3,4,BJP,TDP
+107,Visakhapatnam (Vizag),32,Female,Graduate,Government Employee,Middle,Urban,4,4,4,3,5,3,3,3,4,4,4,3,3,YSRCP,YSRCP
+108,Visakhapatnam (Vizag),25,Female,Secondary,Fisherman,Middle,Urban,3,5,5,4,4,3,3,3,4,4,4,4,3,TDP,TDP
+109,Visakhapatnam (Vizag),31,Male,Secondary,Fisherman,Middle,Rural,3,4,3,4,5,3,4,3,5,5,4,3,3,BJP,JanaSena
+110,Visakhapatnam (Vizag),40,Male,Secondary,Government Employee,Low,Urban,4,5,3,3,4,4,4,3,4,4,3,4,3,YSRCP,TDP
+111,Visakhapatnam (Vizag),77,Male,Graduate,Self-Employed,Low,Urban,2,4,3,4,3,3,5,4,3,4,3,4,4,None,BJP
+112,Visakhapatnam (Vizag),74,Female,Primary,Self-Employed,Low,Urban,3,5,4,4,3,4,5,4,2,3,3,4,3,YSRCP,BJP
+113,Visakhapatnam (Vizag),79,Female,Secondary,Government Employee,Low,Urban,4,4,5,4,3,4,5,5,4,4,4,4,4,BJP,BJP
+114,Visakhapatnam (Vizag),57,Female,Postgraduate,Fisherman,Middle,Urban,3,4,4,3,3,5,3,2,4,4,3,4,4,JanaSena,JanaSena
+115,Visakhapatnam (Vizag),38,Male,Secondary,Private Job,Low,Urban,4,5,3,3,4,4,4,2,3,4,3,3,4,YSRCP,YSRCP
+116,Visakhapatnam (Vizag),33,Female,Secondary,Self-Employed,Low,Urban,4,4,3,3,4,4,4,4,4,4,3,3,4,TDP,TDP
+117,Visakhapatnam (Vizag),62,Male,Primary,Fisherman,Low,Urban,4,3,3,4,4,5,3,3,4,3,3,4,4,JanaSena,JanaSena
+118,Visakhapatnam (Vizag),35,Male,Postgraduate,Private Job,High,Rural,4,4,4,3,4,4,2,3,4,4,4,4,4,BJP,TDP
+119,Visakhapatnam (Vizag),64,Male,Primary,Fisherman,High,Urban,3,3,4,2,3,4,3,3,3,4,4,4,4,YSRCP,YSRCP
+120,Visakhapatnam (Vizag),70,Female,Graduate,Government Employee,Middle,Coastal,4,4,3,4,4,3,3,4,4,4,4,4,4,JanaSena,TDP
+121,Visakhapatnam (Vizag),41,Male,Graduate,Self-Employed,High,Coastal,4,4,4,3,4,3,3,3,3,4,4,3,4,TDP,YSRCP
+122,Visakhapatnam (Vizag),43,Female,Secondary,Private Job,Middle,Urban,5,4,4,2,4,5,4,3,4,3,3,4,4,YSRCP,YSRCP
+123,Visakhapatnam (Vizag),42,Female,Graduate,Private Job,Middle,Coastal,3,3,4,3,4,4,4,4,4,3,3,4,4,JanaSena,JanaSena
+124,Visakhapatnam (Vizag),77,Male,Primary,Government Employee,Low,Coastal,4,4,3,4,4,3,3,4,4,4,4,3,4,TDP,TDP
+125,Visakhapatnam (Vizag),77,Female,Secondary,Self-Employed,Middle,Coastal,5,4,4,3,3,4,3,4,3,4,3,3,4,YSRCP,YSRCP
+126,Visakhapatnam (Vizag),77,Male,Graduate,Fisherman,Middle,Rural,3,3,4,4,4,5,4,3,4,4,3,4,4,YSRCP,TDP
+127,Visakhapatnam (Vizag),62,Male,Postgraduate,Private Job,Middle,Urban,4,3,4,3,3,5,3,3,3,4,4,4,4,JanaSena,JanaSena
+128,Visakhapatnam (Vizag),58,Male,Graduate,Private Job,Middle,Rural,3,4,3,3,4,3,4,3,4,4,3,4,4,TDP,TDP
+129,Visakhapatnam (Vizag),46,Male,Secondary,Self-Employed,Middle,Rural,4,4,4,3,4,4,3,3,3,4,3,4,3,YSRCP,YSRCP
+130,Visakhapatnam (Vizag),32,Female,Secondary,Private Job,Middle,Rural,4,3,3,5,3,3,4,4,3,2,3,4,3,BJP,BJP
+131,Visakhapatnam (Vizag),62,Male,Primary,Fisherman,High,Urban,4,4,3,4,4,4,4,4,3,3,3,3,3,JanaSena,BJP
+132,Visakhapatnam (Vizag),18,Female,Primary,Government Employee,Low,Coastal,5,3,2,4,4,3,3,5,3,3,3,4,4,YSRCP,BJP
+133,Visakhapatnam (Vizag),42,Female,Secondary,Student,Middle,Coastal,4,3,4,3,3,4,3,4,3,3,3,4,5,JanaSena,JanaSena
+134,Visakhapatnam (Vizag),24,Female,Secondary,Fisherman,Middle,Urban,3,4,4,4,4,4,4,5,3,3,3,3,4,BJP,BJP
+135,Visakhapatnam (Vizag),26,Female,Secondary,Self-Employed,Middle,Urban,5,4,5,2,4,4,2,2,3,4,4,3,4,YSRCP,YSRCP
+136,Visakhapatnam (Vizag),41,Female,Secondary,Fisherman,Middle,Urban,4,4,3,5,4,2,5,5,4,4,3,3,3,BJP,BJP
+137,Visakhapatnam (Vizag),18,Male,Secondary,Government Employee,Low,Coastal,3,3,5,3,4,4,4,2,3,4,3,4,4,YSRCP,YSRCP
+138,Visakhapatnam (Vizag),61,Male,Secondary,Private Job,Middle,Rural,3,4,3,4,4,3,4,4,3,2,3,3,4,BJP,TDP
+139,Visakhapatnam (Vizag),25,Female,Graduate,Student,Low,Rural,3,4,3,4,5,4,4,3,5,4,3,4,3,YSRCP,TDP
+140,Visakhapatnam (Vizag),41,Female,Secondary,Private Job,Middle,Urban,5,4,5,3,4,4,3,3,3,4,4,4,4,YSRCP,YSRCP
+141,Visakhapatnam (Vizag),28,Male,Postgraduate,Self-Employed,Middle,Rural,4,4,4,4,4,3,4,3,3,4,4,3,4,TDP,TDP
+142,Visakhapatnam (Vizag),68,Male,Postgraduate,Student,Middle,Urban,5,4,4,3,3,5,3,4,4,4,3,4,4,YSRCP,YSRCP
+143,Visakhapatnam (Vizag),34,Male,Secondary,Government Employee,Low,Urban,3,4,3,2,4,4,3,3,3,4,3,4,4,YSRCP,YSRCP
+144,Visakhapatnam (Vizag),25,Female,Graduate,Student,Middle,Coastal,4,5,3,3,5,4,3,4,4,5,4,2,4,TDP,TDP
+145,Visakhapatnam (Vizag),52,Male,Graduate,Student,Low,Coastal,4,4,4,3,4,5,3,3,3,4,4,3,4,BJP,YSRCP
+146,Visakhapatnam (Vizag),52,Male,Graduate,Fisherman,Middle,Coastal,3,4,3,5,3,3,5,5,3,4,3,4,3,BJP,BJP
+147,Visakhapatnam (Vizag),50,Male,Secondary,Private Job,High,Coastal,4,4,4,2,4,4,3,3,4,4,3,3,4,YSRCP,YSRCP
+148,Visakhapatnam (Vizag),76,Male,Secondary,Self-Employed,High,Urban,4,4,4,4,4,3,4,5,3,3,3,3,4,YSRCP,BJP
+149,Visakhapatnam (Vizag),22,Female,Secondary,Fisherman,Middle,Urban,3,3,3,4,4,4,4,5,4,3,3,4,3,BJP,BJP
+150,Visakhapatnam (Vizag),59,Male,Secondary,Student,Middle,Rural,4,3,3,3,3,4,5,4,3,4,3,4,3,YSRCP,BJP
+151,Visakhapatnam (Vizag),56,Female,Graduate,Self-Employed,Low,Coastal,4,4,4,3,4,3,3,3,4,3,4,4,4,YSRCP,TDP
+152,Visakhapatnam (Vizag),75,Male,Graduate,Fisherman,Low,Urban,3,4,3,3,3,4,4,3,3,4,3,4,4,JanaSena,JanaSena
+153,Visakhapatnam (Vizag),58,Female,Secondary,Government Employee,Middle,Urban,4,4,4,2,4,4,3,3,3,4,3,5,3,TDP,YSRCP
+154,Visakhapatnam (Vizag),45,Male,Graduate,Private Job,Middle,Urban,5,5,5,3,4,4,3,3,3,4,3,3,4,YSRCP,YSRCP
+155,Visakhapatnam (Vizag),24,Male,Primary,Government Employee,High,Rural,4,4,3,4,4,3,3,4,4,5,4,2,4,YSRCP,TDP
+156,Visakhapatnam (Vizag),26,Female,Secondary,Fisherman,Low,Urban,4,3,4,2,3,5,3,3,4,4,3,4,4,YSRCP,YSRCP
+157,Visakhapatnam (Vizag),25,Female,Graduate,Fisherman,High,Urban,4,4,4,3,4,4,3,3,4,3,3,4,4,JanaSena,JanaSena
+158,Visakhapatnam (Vizag),29,Female,Secondary,Government Employee,Middle,Urban,3,4,5,2,4,3,3,3,3,4,3,4,4,YSRCP,YSRCP
+159,Visakhapatnam (Vizag),51,Female,Primary,Self-Employed,Middle,Urban,3,4,3,4,4,4,5,4,3,3,3,3,3,BJP,BJP
+160,Visakhapatnam (Vizag),50,Female,Secondary,Student,Low,Coastal,3,3,3,4,4,4,4,5,3,3,3,4,3,BJP,BJP
+161,Visakhapatnam (Vizag),65,Male,Secondary,Private Job,Low,Urban,5,4,5,4,4,5,3,4,4,4,4,4,4,YSRCP,YSRCP
+162,Visakhapatnam (Vizag),72,Female,Postgraduate,Fisherman,Middle,Rural,3,4,4,4,4,3,3,2,3,4,4,4,4,TDP,BJP
+163,Visakhapatnam (Vizag),40,Male,Graduate,Government Employee,Middle,Rural,4,4,5,2,4,4,3,4,4,5,4,4,4,YSRCP,YSRCP
+164,Visakhapatnam (Vizag),79,Female,Postgraduate,Private Job,Low,Coastal,3,5,3,3,4,4,3,4,4,4,4,3,4,TDP,TDP
+165,Visakhapatnam (Vizag),41,Female,Graduate,Self-Employed,Middle,Urban,5,4,5,2,3,5,3,3,3,5,3,4,3,YSRCP,YSRCP
+166,Visakhapatnam (Vizag),54,Female,Secondary,Self-Employed,Middle,Coastal,4,4,3,3,3,4,3,4,4,4,3,4,3,YSRCP,JanaSena
+167,Visakhapatnam (Vizag),52,Female,Secondary,Student,Middle,Rural,4,3,5,3,2,4,3,3,4,3,3,5,5,JanaSena,BJP
+168,Visakhapatnam (Vizag),61,Male,Graduate,Self-Employed,High,Coastal,5,4,4,3,4,4,4,3,3,4,4,4,4,YSRCP,YSRCP
+169,Visakhapatnam (Vizag),57,Female,Primary,Fisherman,Low,Coastal,4,5,4,2,4,5,2,4,4,4,4,3,3,TDP,YSRCP
+170,Visakhapatnam (Vizag),39,Male,Postgraduate,Student,Low,Urban,3,3,3,4,4,4,5,4,3,3,4,4,3,YSRCP,BJP
+171,Visakhapatnam (Vizag),44,Female,Graduate,Private Job,Middle,Urban,5,4,4,4,4,4,3,3,4,4,3,5,3,JanaSena,YSRCP
+172,Visakhapatnam (Vizag),52,Female,Secondary,Self-Employed,Low,Urban,4,4,4,3,4,5,2,3,4,4,4,5,3,JanaSena,JanaSena
+173,Visakhapatnam (Vizag),18,Male,Postgraduate,Private Job,Low,Rural,4,4,3,3,4,3,3,3,4,4,3,4,3,TDP,TDP
+174,Visakhapatnam (Vizag),52,Female,Graduate,Student,Low,Urban,4,4,3,4,4,4,3,4,3,4,4,4,5,YSRCP,TDP
+175,Visakhapatnam (Vizag),54,Female,Graduate,Self-Employed,Low,Urban,3,4,3,4,4,4,4,3,4,4,3,3,4,BJP,BJP
+176,Visakhapatnam (Vizag),64,Female,Primary,Fisherman,Low,Urban,4,4,4,3,4,4,3,3,4,4,4,3,4,TDP,TDP
+177,Visakhapatnam (Vizag),31,Female,Secondary,Private Job,Low,Urban,4,4,4,3,4,5,2,4,4,4,3,4,3,JanaSena,JanaSena
+178,Visakhapatnam (Vizag),20,Male,Secondary,Student,Low,Urban,3,3,4,4,2,4,3,3,4,4,2,3,4,JanaSena,JanaSena
+179,Visakhapatnam (Vizag),18,Male,Secondary,Private Job,Low,Urban,4,4,4,2,3,4,2,4,3,4,4,5,5,YSRCP,YSRCP
+180,Visakhapatnam (Vizag),22,Female,Primary,Private Job,Middle,Urban,5,5,4,2,4,5,3,3,3,3,3,4,3,TDP,YSRCP
+181,Visakhapatnam (Vizag),43,Male,Graduate,Private Job,Middle,Urban,4,2,4,4,4,4,3,3,3,4,4,4,3,JanaSena,JanaSena
+182,Visakhapatnam (Vizag),72,Female,Primary,Fisherman,Middle,Urban,4,4,5,3,4,4,3,3,4,3,3,4,4,JanaSena,JanaSena
+183,Visakhapatnam (Vizag),31,Male,Graduate,Self-Employed,Low,Urban,5,4,4,4,4,5,3,3,4,3,3,4,4,YSRCP,YSRCP
+184,Visakhapatnam (Vizag),56,Male,Postgraduate,Government Employee,Low,Coastal,3,3,3,4,4,3,4,5,3,4,3,4,4,BJP,BJP
+185,Visakhapatnam (Vizag),44,Female,Postgraduate,Fisherman,Middle,Rural,4,5,4,4,4,3,3,3,3,4,5,3,4,YSRCP,TDP
+186,Visakhapatnam (Vizag),26,Female,Secondary,Private Job,Middle,Urban,5,4,4,3,4,5,2,4,3,4,3,4,4,YSRCP,YSRCP
+187,Visakhapatnam (Vizag),32,Male,Postgraduate,Private Job,Middle,Urban,4,3,4,3,4,4,3,4,3,3,4,5,5,TDP,JanaSena
+188,Visakhapatnam (Vizag),32,Female,Primary,Fisherman,Low,Coastal,5,4,4,3,4,5,3,3,3,4,4,3,4,YSRCP,YSRCP
+189,Visakhapatnam (Vizag),43,Male,Primary,Private Job,High,Coastal,4,4,4,3,4,4,4,2,3,4,4,4,4,JanaSena,JanaSena
+190,Visakhapatnam (Vizag),59,Male,Graduate,Private Job,Low,Coastal,5,3,4,2,4,3,3,3,4,3,4,4,4,YSRCP,YSRCP
+191,Visakhapatnam (Vizag),77,Male,Secondary,Private Job,Middle,Rural,4,5,4,3,4,4,2,4,4,4,4,4,4,TDP,TDP
+192,Visakhapatnam (Vizag),30,Male,Secondary,Student,Middle,Urban,4,4,4,3,5,4,3,3,4,4,3,4,4,YSRCP,YSRCP
+193,Visakhapatnam (Vizag),68,Male,Graduate,Private Job,Middle,Urban,5,5,3,3,3,4,3,3,4,3,4,4,4,TDP,TDP
+194,Visakhapatnam (Vizag),49,Female,Secondary,Government Employee,Low,Urban,4,4,3,4,3,4,4,4,3,3,3,4,4,YSRCP,BJP
+195,Visakhapatnam (Vizag),56,Female,Secondary,Government Employee,Low,Coastal,4,4,4,3,3,4,2,3,3,3,4,4,3,YSRCP,YSRCP
+196,Visakhapatnam (Vizag),66,Male,Secondary,Government Employee,Middle,Rural,4,4,3,4,4,4,3,4,4,5,4,3,4,TDP,TDP
+197,Visakhapatnam (Vizag),69,Female,Graduate,Government Employee,Low,Rural,4,5,3,4,4,5,3,3,3,4,4,3,3,TDP,TDP
+198,Visakhapatnam (Vizag),78,Female,Graduate,Private Job,Low,Urban,5,4,5,2,3,4,4,3,3,3,3,4,5,YSRCP,JanaSena
+199,Visakhapatnam (Vizag),49,Male,Secondary,Self-Employed,Low,Coastal,4,3,3,4,3,3,5,5,3,4,4,4,3,JanaSena,BJP
+200,Visakhapatnam (Vizag),21,Female,Secondary,Government Employee,Middle,Urban,4,4,4,3,4,3,2,2,3,3,3,4,3,YSRCP,YSRCP
+201,Visakhapatnam (Vizag),47,Female,Secondary,Private Job,Low,Urban,4,4,3,4,5,5,3,4,4,4,4,5,5,TDP,TDP
+202,Visakhapatnam (Vizag),54,Male,Primary,Self-Employed,High,Urban,4,5,4,4,4,3,3,4,3,4,4,3,4,TDP,TDP
+203,Visakhapatnam (Vizag),40,Male,Graduate,Government Employee,Middle,Rural,4,4,4,4,3,4,3,4,2,3,4,4,4,JanaSena,TDP
+204,Visakhapatnam (Vizag),56,Female,Secondary,Private Job,High,Urban,5,4,5,3,4,4,4,3,3,5,3,3,3,YSRCP,YSRCP
+205,Visakhapatnam (Vizag),62,Female,Secondary,Private Job,High,Coastal,4,4,4,4,4,3,4,4,3,5,5,4,4,TDP,TDP
+206,Visakhapatnam (Vizag),32,Male,Graduate,Fisherman,Middle,Urban,5,4,3,4,4,4,4,3,3,4,4,4,5,YSRCP,TDP
+207,Visakhapatnam (Vizag),60,Female,Graduate,Self-Employed,Low,Rural,3,3,3,3,3,3,5,4,4,3,3,4,4,JanaSena,BJP
+208,Visakhapatnam (Vizag),46,Female,Graduate,Student,Low,Rural,4,4,4,4,4,4,4,4,3,3,3,3,3,BJP,BJP
+209,Visakhapatnam (Vizag),53,Female,Secondary,Self-Employed,Low,Urban,4,5,3,3,3,4,4,3,4,4,4,4,4,TDP,TDP
+210,Visakhapatnam (Vizag),30,Female,Secondary,Government Employee,Middle,Coastal,3,4,4,3,2,4,3,3,3,4,3,4,4,YSRCP,YSRCP
+211,Visakhapatnam (Vizag),49,Female,Secondary,Private Job,Low,Coastal,5,4,5,3,4,5,3,4,4,4,3,4,4,JanaSena,YSRCP
+212,Visakhapatnam (Vizag),24,Male,Secondary,Fisherman,Low,Rural,5,4,4,2,4,4,2,3,3,3,4,3,4,YSRCP,YSRCP
+213,Visakhapatnam (Vizag),76,Male,Graduate,Government Employee,Low,Coastal,5,4,4,3,4,4,3,4,4,4,4,5,4,YSRCP,YSRCP
+214,Visakhapatnam (Vizag),68,Female,Graduate,Government Employee,High,Rural,3,4,3,3,5,3,4,3,4,3,4,2,3,TDP,TDP
+215,Visakhapatnam (Vizag),39,Female,Graduate,Self-Employed,Low,Urban,4,5,5,3,3,5,3,3,4,4,3,3,3,YSRCP,YSRCP
+216,Visakhapatnam (Vizag),45,Male,Graduate,Private Job,Low,Rural,4,4,3,2,4,5,3,3,3,4,4,4,3,YSRCP,BJP
+217,Visakhapatnam (Vizag),19,Female,Secondary,Private Job,Low,Urban,5,3,5,3,4,4,3,3,4,4,4,4,4,YSRCP,BJP
+218,Visakhapatnam (Vizag),59,Female,Graduate,Government Employee,High,Urban,5,4,4,2,4,5,3,4,4,4,3,5,4,None,BJP
+219,Visakhapatnam (Vizag),62,Male,Secondary,Government Employee,Middle,Urban,4,3,5,4,4,4,3,3,4,4,4,4,4,YSRCP,YSRCP
+220,Visakhapatnam (Vizag),79,Female,Secondary,Government Employee,Low,Rural,4,5,4,3,4,5,3,3,4,3,4,4,2,JanaSena,YSRCP
+221,Visakhapatnam (Vizag),74,Female,Secondary,Student,Low,Rural,4,3,5,3,5,5,3,4,3,4,3,4,4,TDP,TDP
+222,Visakhapatnam (Vizag),70,Female,Secondary,Private Job,Low,Urban,4,4,4,3,4,3,3,4,4,4,4,3,4,TDP,TDP
+223,Visakhapatnam (Vizag),23,Female,Secondary,Student,Low,Rural,3,4,4,3,4,4,3,3,3,3,4,3,3,YSRCP,YSRCP
+224,Visakhapatnam (Vizag),45,Male,Postgraduate,Government Employee,High,Coastal,3,4,3,4,4,4,3,3,4,4,5,3,4,TDP,BJP
+225,Visakhapatnam (Vizag),45,Female,Secondary,Self-Employed,Middle,Urban,4,4,4,3,3,4,2,4,3,3,4,4,4,YSRCP,YSRCP
+226,Visakhapatnam (Vizag),61,Male,Primary,Self-Employed,Middle,Urban,5,4,4,3,4,4,3,3,4,5,4,5,4,YSRCP,YSRCP
+227,Visakhapatnam (Vizag),61,Male,Secondary,Private Job,Middle,Coastal,4,4,5,3,3,5,3,4,4,4,4,5,4,None,YSRCP
+228,Visakhapatnam (Vizag),37,Female,Graduate,Private Job,Low,Urban,4,4,4,4,4,4,3,3,4,4,4,4,4,TDP,TDP
+229,Visakhapatnam (Vizag),47,Male,Graduate,Self-Employed,Middle,Rural,4,3,3,4,4,3,5,4,2,4,3,4,5,BJP,BJP
+230,Visakhapatnam (Vizag),79,Male,Graduate,Private Job,Middle,Urban,4,4,4,2,4,4,3,3,4,3,3,4,3,YSRCP,YSRCP
+231,Visakhapatnam (Vizag),28,Female,Secondary,Self-Employed,Low,Urban,4,5,5,2,3,4,3,3,3,3,4,4,4,YSRCP,YSRCP
+232,Visakhapatnam (Vizag),75,Male,Graduate,Fisherman,Middle,Rural,4,4,3,3,3,4,4,3,3,4,3,3,4,JanaSena,JanaSena
+233,Visakhapatnam (Vizag),72,Male,Secondary,Government Employee,Low,Rural,5,4,5,2,4,4,3,3,3,4,3,3,3,YSRCP,YSRCP
+234,Visakhapatnam (Vizag),45,Female,Graduate,Self-Employed,Low,Coastal,4,4,4,3,4,4,2,2,4,4,3,3,5,YSRCP,YSRCP
+235,Visakhapatnam (Vizag),42,Female,Graduate,Self-Employed,Low,Coastal,4,3,4,3,2,4,4,4,4,4,4,4,4,JanaSena,JanaSena
+236,Visakhapatnam (Vizag),56,Male,Secondary,Private Job,Low,Coastal,4,4,4,5,3,3,4,4,4,3,2,3,3,JanaSena,BJP
+237,Visakhapatnam (Vizag),79,Female,Primary,Student,Middle,Rural,4,5,4,4,4,3,4,3,4,4,4,3,3,TDP,TDP
+238,Visakhapatnam (Vizag),50,Male,Primary,Private Job,High,Urban,4,5,4,3,5,3,3,3,3,4,4,3,4,JanaSena,TDP
+239,Visakhapatnam (Vizag),18,Female,Secondary,Fisherman,Middle,Rural,4,4,4,2,5,4,3,3,3,3,4,3,4,YSRCP,YSRCP
+240,Visakhapatnam (Vizag),74,Female,Secondary,Government Employee,Middle,Urban,5,4,4,2,4,4,3,3,3,4,3,4,4,YSRCP,YSRCP
+241,Visakhapatnam (Vizag),44,Female,Graduate,Government Employee,Middle,Coastal,4,3,3,4,4,4,3,4,4,4,4,3,4,TDP,TDP
+242,Visakhapatnam (Vizag),79,Female,Secondary,Self-Employed,Low,Urban,4,4,4,2,4,3,2,3,4,4,3,5,4,YSRCP,YSRCP
+243,Visakhapatnam (Vizag),74,Female,Secondary,Private Job,Middle,Rural,4,4,3,5,3,4,2,4,3,4,4,3,4,YSRCP,TDP
+244,Visakhapatnam (Vizag),69,Female,Primary,Private Job,Low,Urban,4,4,4,3,3,4,3,4,3,4,3,5,4,JanaSena,JanaSena
+245,Visakhapatnam (Vizag),30,Male,Primary,Fisherman,Middle,Coastal,4,3,4,3,3,4,5,3,3,4,4,4,3,YSRCP,JanaSena
+246,Visakhapatnam (Vizag),58,Male,Postgraduate,Private Job,High,Coastal,5,3,4,2,5,4,3,3,4,3,3,4,4,YSRCP,YSRCP
+247,Visakhapatnam (Vizag),20,Female,Secondary,Private Job,Low,Urban,3,4,3,4,4,3,4,3,3,4,4,4,4,YSRCP,TDP
+248,Visakhapatnam (Vizag),56,Male,Graduate,Student,Middle,Coastal,4,3,4,3,4,4,3,3,3,5,4,4,4,YSRCP,TDP
+249,Visakhapatnam (Vizag),23,Female,Graduate,Private Job,Middle,Urban,4,3,3,4,3,5,3,3,4,4,4,4,4,TDP,JanaSena
+250,Visakhapatnam (Vizag),25,Male,Graduate,Self-Employed,Middle,Rural,4,4,5,3,4,4,4,3,4,4,4,3,4,YSRCP,YSRCP
+251,Visakhapatnam (Vizag),44,Female,Postgraduate,Self-Employed,Low,Coastal,5,4,4,3,4,4,3,4,3,4,3,4,4,TDP,YSRCP
+252,Visakhapatnam (Vizag),26,Male,Secondary,Government Employee,Low,Urban,4,4,5,3,3,5,3,4,3,4,4,4,4,YSRCP,YSRCP
+253,Visakhapatnam (Vizag),79,Male,Postgraduate,Self-Employed,Low,Coastal,4,4,4,2,3,4,3,4,4,3,4,3,4,YSRCP,YSRCP
+254,Visakhapatnam (Vizag),54,Female,Primary,Student,Low,Urban,4,4,4,3,4,4,4,3,3,4,2,4,5,TDP,YSRCP
+255,Visakhapatnam (Vizag),50,Male,Primary,Private Job,Low,Urban,3,4,2,3,3,3,4,4,3,3,3,4,4,YSRCP,BJP
+256,Visakhapatnam (Vizag),68,Female,Graduate,Fisherman,Middle,Coastal,4,3,3,4,3,3,5,5,3,3,3,4,3,BJP,BJP
+257,Visakhapatnam (Vizag),59,Male,Postgraduate,Private Job,Low,Urban,4,4,4,3,4,4,2,3,4,3,3,4,3,YSRCP,YSRCP
+258,Visakhapatnam (Vizag),61,Male,Graduate,Government Employee,Middle,Coastal,4,5,3,3,4,4,4,4,4,4,3,4,3,TDP,TDP
+259,Visakhapatnam (Vizag),41,Female,Primary,Self-Employed,Middle,Coastal,4,4,4,2,4,4,3,4,3,4,2,4,4,YSRCP,BJP
+260,Visakhapatnam (Vizag),32,Male,Secondary,Private Job,Middle,Urban,4,4,4,3,4,4,4,3,3,3,3,4,3,BJP,BJP
+261,Visakhapatnam (Vizag),76,Female,Postgraduate,Self-Employed,Low,Rural,4,4,4,3,3,4,3,4,4,4,3,4,2,JanaSena,JanaSena
+262,Visakhapatnam (Vizag),71,Female,Secondary,Government Employee,Middle,Urban,4,3,4,3,3,4,2,3,5,4,4,4,3,TDP,JanaSena
+263,Visakhapatnam (Vizag),49,Female,Graduate,Fisherman,High,Urban,4,3,4,4,3,5,3,3,3,5,3,4,3,None,JanaSena
+264,Visakhapatnam (Vizag),49,Female,Graduate,Self-Employed,Low,Urban,5,4,4,2,4,5,3,4,4,4,3,3,4,YSRCP,YSRCP
+265,Visakhapatnam (Vizag),41,Female,Secondary,Private Job,Low,Urban,3,3,5,3,4,4,4,3,4,4,3,4,4,JanaSena,YSRCP
+266,Visakhapatnam (Vizag),58,Female,Secondary,Private Job,Middle,Urban,4,4,4,3,3,3,3,3,5,4,4,3,4,TDP,TDP
+267,Visakhapatnam (Vizag),69,Male,Secondary,Government Employee,Low,Urban,3,3,4,4,3,4,3,3,3,3,4,4,3,TDP,JanaSena
+268,Visakhapatnam (Vizag),66,Male,Secondary,Fisherman,Low,Coastal,5,5,4,3,4,4,3,4,4,4,4,4,4,YSRCP,YSRCP
+269,Visakhapatnam (Vizag),79,Male,Postgraduate,Government Employee,Low,Coastal,3,4,3,3,3,4,3,3,3,4,3,4,5,YSRCP,YSRCP
+270,Visakhapatnam (Vizag),66,Male,Secondary,Private Job,Low,Rural,4,4,4,4,4,4,5,4,4,3,3,4,3,BJP,BJP
+271,Visakhapatnam (Vizag),75,Female,Postgraduate,Private Job,Middle,Rural,4,4,4,2,3,5,3,4,5,3,4,3,4,YSRCP,YSRCP
+272,Visakhapatnam (Vizag),69,Female,Primary,Self-Employed,Low,Coastal,4,4,3,3,5,3,3,3,4,4,3,4,4,TDP,TDP
+273,Visakhapatnam (Vizag),29,Male,Postgraduate,Private Job,Middle,Urban,4,4,3,3,4,4,5,4,2,3,3,4,3,TDP,BJP
+274,Visakhapatnam (Vizag),79,Male,Secondary,Private Job,Middle,Rural,4,4,4,2,3,5,3,3,4,4,5,4,4,YSRCP,YSRCP
+275,Visakhapatnam (Vizag),56,Male,Primary,Private Job,Middle,Coastal,4,5,5,2,4,3,4,4,4,4,4,4,4,YSRCP,YSRCP
+276,Visakhapatnam (Vizag),19,Female,Primary,Self-Employed,Middle,Urban,4,4,2,4,4,3,3,5,3,3,4,4,4,BJP,BJP
+277,Visakhapatnam (Vizag),20,Female,Graduate,Fisherman,Middle,Rural,5,4,4,3,4,5,3,4,4,4,4,2,4,TDP,TDP
+278,Visakhapatnam (Vizag),66,Male,Graduate,Private Job,Low,Coastal,4,5,4,3,4,4,3,3,3,4,4,3,4,JanaSena,JanaSena
+279,Visakhapatnam (Vizag),54,Female,Graduate,Fisherman,Middle,Coastal,4,4,4,3,4,4,4,4,3,4,3,4,3,None,YSRCP
+280,Visakhapatnam (Vizag),66,Female,Primary,Fisherman,Middle,Rural,4,4,4,3,4,4,3,3,4,4,3,4,4,BJP,YSRCP
+281,Visakhapatnam (Vizag),73,Male,Primary,Self-Employed,Middle,Urban,4,4,2,4,4,3,5,4,3,4,3,4,4,BJP,BJP
+282,Visakhapatnam (Vizag),34,Female,Secondary,Student,Middle,Urban,4,3,3,4,4,4,4,3,3,4,3,4,4,TDP,TDP
+283,Visakhapatnam (Vizag),76,Female,Secondary,Private Job,Low,Urban,4,4,4,3,3,4,2,3,4,3,3,4,3,YSRCP,YSRCP
+284,Visakhapatnam (Vizag),66,Male,Secondary,Government Employee,Low,Coastal,3,5,3,4,4,4,4,5,3,4,3,3,3,JanaSena,BJP
+285,Visakhapatnam (Vizag),19,Male,Postgraduate,Private Job,Middle,Urban,4,4,5,2,4,4,4,3,3,4,3,4,3,None,YSRCP
+286,Visakhapatnam (Vizag),19,Male,Postgraduate,Self-Employed,Low,Coastal,5,4,5,3,3,4,2,3,4,4,3,4,4,YSRCP,JanaSena
+287,Visakhapatnam (Vizag),45,Male,Postgraduate,Self-Employed,Middle,Urban,4,4,4,2,3,4,3,3,4,4,3,4,4,YSRCP,YSRCP
+288,Visakhapatnam (Vizag),71,Female,Graduate,Private Job,Low,Urban,4,4,4,4,3,4,2,4,4,4,4,4,4,BJP,TDP
+289,Visakhapatnam (Vizag),40,Female,Secondary,Self-Employed,Low,Urban,4,5,3,3,4,3,4,4,4,5,4,4,4,YSRCP,JanaSena
+290,Visakhapatnam (Vizag),54,Male,Secondary,Student,Low,Rural,3,4,3,4,4,3,3,4,3,4,4,3,3,TDP,TDP
+291,Visakhapatnam (Vizag),49,Male,Secondary,Private Job,Low,Urban,3,4,3,4,4,3,5,4,3,3,3,4,3,None,BJP
+292,Visakhapatnam (Vizag),50,Male,Graduate,Private Job,Middle,Urban,4,3,4,4,4,5,4,4,3,3,3,5,3,JanaSena,JanaSena
+293,Visakhapatnam (Vizag),18,Male,Primary,Private Job,Low,Urban,4,4,5,2,4,4,3,4,4,3,4,4,4,JanaSena,YSRCP
+294,Visakhapatnam (Vizag),36,Female,Secondary,Student,High,Urban,4,5,4,3,4,4,2,4,4,4,3,4,4,YSRCP,YSRCP
+295,Visakhapatnam (Vizag),79,Male,Primary,Self-Employed,Middle,Urban,4,4,4,3,3,5,3,3,3,5,4,3,4,YSRCP,YSRCP
+296,Visakhapatnam (Vizag),19,Male,Secondary,Student,Low,Coastal,4,3,4,3,4,4,3,3,4,4,3,4,4,YSRCP,YSRCP
+297,Visakhapatnam (Vizag),70,Male,Postgraduate,Self-Employed,Middle,Rural,4,4,2,3,4,4,4,4,3,4,2,4,4,BJP,BJP
+298,Visakhapatnam (Vizag),61,Female,Graduate,Government Employee,Middle,Urban,3,4,2,5,4,3,4,4,3,3,3,3,3,BJP,BJP
+299,Visakhapatnam (Vizag),43,Male,Secondary,Self-Employed,Middle,Coastal,4,4,2,4,4,4,4,5,3,3,3,3,3,BJP,BJP
+300,Visakhapatnam (Vizag),49,Female,Postgraduate,Student,Low,Coastal,4,4,4,3,4,5,3,3,3,4,3,4,3,JanaSena,YSRCP
+301,Visakhapatnam (Vizag),23,Male,Graduate,Private Job,Middle,Rural,4,5,5,3,5,4,3,4,3,4,3,4,4,YSRCP,YSRCP
+302,Visakhapatnam (Vizag),49,Female,Primary,Government Employee,Middle,Rural,5,4,4,3,4,3,3,3,3,5,4,3,3,TDP,TDP
+303,Visakhapatnam (Vizag),72,Female,Secondary,Self-Employed,Low,Coastal,4,4,5,3,4,4,3,3,3,3,3,3,4,YSRCP,YSRCP
+304,Visakhapatnam (Vizag),21,Male,Secondary,Fisherman,Low,Coastal,5,4,3,3,4,3,3,4,4,4,4,4,5,TDP,TDP
+305,Visakhapatnam (Vizag),72,Male,Primary,Self-Employed,Middle,Coastal,4,3,4,3,3,5,3,3,4,4,4,4,4,TDP,JanaSena
+306,Visakhapatnam (Vizag),28,Female,Postgraduate,Fisherman,Low,Urban,4,5,3,4,4,4,4,4,4,4,4,4,5,TDP,TDP
+307,Visakhapatnam (Vizag),73,Female,Secondary,Private Job,Middle,Rural,3,5,3,4,3,4,5,4,2,3,3,4,4,BJP,JanaSena
+308,Visakhapatnam (Vizag),76,Male,Postgraduate,Self-Employed,Low,Rural,5,4,3,4,4,4,4,4,3,4,3,4,4,BJP,TDP
+309,Visakhapatnam (Vizag),34,Male,Secondary,Private Job,High,Urban,4,5,4,2,4,5,3,3,3,4,3,4,4,YSRCP,YSRCP
+310,Visakhapatnam (Vizag),55,Female,Primary,Private Job,Middle,Urban,5,5,4,4,3,4,3,3,4,4,4,3,4,TDP,TDP
+311,Visakhapatnam (Vizag),41,Female,Secondary,Private Job,Low,Coastal,5,4,4,3,4,4,2,4,3,3,3,4,4,TDP,YSRCP
+312,Visakhapatnam (Vizag),22,Male,Primary,Self-Employed,Low,Rural,4,4,4,3,4,5,3,3,4,5,4,4,4,YSRCP,YSRCP
+313,Visakhapatnam (Vizag),69,Female,Secondary,Fisherman,Middle,Urban,4,5,4,4,4,4,3,4,4,5,4,5,5,None,TDP
+314,Visakhapatnam (Vizag),51,Male,Postgraduate,Self-Employed,Middle,Rural,4,4,4,3,2,4,3,3,3,4,3,4,4,JanaSena,JanaSena
+315,Visakhapatnam (Vizag),23,Female,Secondary,Fisherman,Middle,Urban,5,4,4,3,5,4,3,3,3,4,3,4,3,JanaSena,YSRCP
+316,Visakhapatnam (Vizag),39,Male,Graduate,Self-Employed,Low,Urban,4,5,4,3,4,4,2,4,4,4,3,4,4,TDP,TDP
+317,Visakhapatnam (Vizag),28,Male,Secondary,Self-Employed,Low,Coastal,3,3,4,4,4,4,3,3,4,4,3,4,4,JanaSena,JanaSena
+318,Visakhapatnam (Vizag),65,Male,Primary,Private Job,Low,Urban,3,4,2,3,3,4,5,4,3,4,4,4,3,BJP,BJP
+319,Visakhapatnam (Vizag),33,Female,Primary,Private Job,Middle,Urban,3,3,2,4,3,4,5,4,3,3,3,4,3,None,BJP
+320,Visakhapatnam (Vizag),50,Male,Graduate,Private Job,Low,Coastal,5,3,5,2,4,5,3,3,3,4,4,4,4,YSRCP,YSRCP
+321,Visakhapatnam (Vizag),26,Male,Primary,Government Employee,Low,Urban,3,3,3,3,4,5,3,2,4,4,3,4,3,TDP,JanaSena
+322,Visakhapatnam (Vizag),77,Male,Secondary,Fisherman,Middle,Urban,5,4,4,2,3,4,3,3,4,4,4,4,3,YSRCP,YSRCP
+323,Visakhapatnam (Vizag),76,Male,Graduate,Fisherman,High,Coastal,4,4,4,4,5,3,4,4,4,3,4,3,4,TDP,TDP
+324,Visakhapatnam (Vizag),23,Female,Secondary,Fisherman,Low,Rural,5,3,5,2,4,4,3,3,3,4,4,4,4,YSRCP,YSRCP
+325,Visakhapatnam (Vizag),33,Male,Secondary,Private Job,Low,Rural,3,4,3,4,4,3,3,3,3,4,4,4,3,None,TDP
+326,Visakhapatnam (Vizag),46,Female,Secondary,Private Job,Middle,Coastal,4,5,4,2,4,4,2,4,4,4,3,4,3,JanaSena,YSRCP
+327,Visakhapatnam (Vizag),20,Female,Postgraduate,Government Employee,Middle,Urban,4,5,3,4,3,4,4,4,3,5,5,4,4,TDP,TDP
+328,Visakhapatnam (Vizag),37,Female,Graduate,Self-Employed,Low,Rural,4,5,4,2,4,4,2,3,3,4,3,4,4,YSRCP,YSRCP
+329,Visakhapatnam (Vizag),77,Male,Secondary,Private Job,High,Rural,4,5,4,2,4,4,3,4,3,4,4,3,4,YSRCP,TDP
+330,Visakhapatnam (Vizag),76,Male,Primary,Government Employee,Middle,Coastal,4,4,4,3,4,3,3,3,4,4,4,4,4,TDP,TDP
+331,Visakhapatnam (Vizag),53,Male,Postgraduate,Private Job,Low,Rural,4,4,4,3,4,4,2,2,4,3,3,4,3,JanaSena,JanaSena
+332,Visakhapatnam (Vizag),36,Male,Graduate,Self-Employed,Low,Rural,4,3,4,3,3,5,3,3,4,3,3,3,3,JanaSena,JanaSena
+333,Visakhapatnam (Vizag),43,Male,Secondary,Self-Employed,Middle,Urban,4,5,4,2,4,4,3,3,4,5,3,4,4,YSRCP,YSRCP
+334,Visakhapatnam (Vizag),20,Female,Postgraduate,Self-Employed,Middle,Urban,4,4,3,4,4,3,4,3,3,3,3,4,3,TDP,BJP
+335,Visakhapatnam (Vizag),36,Male,Secondary,Self-Employed,Low,Coastal,4,3,3,4,3,3,4,4,2,4,3,4,3,BJP,BJP
+336,Visakhapatnam (Vizag),37,Male,Secondary,Fisherman,Middle,Rural,4,5,4,3,3,4,3,5,3,4,3,3,4,YSRCP,YSRCP
+337,Visakhapatnam (Vizag),49,Female,Graduate,Self-Employed,Middle,Rural,4,4,4,2,3,5,3,2,4,4,4,3,3,YSRCP,YSRCP
+338,Visakhapatnam (Vizag),24,Male,Secondary,Student,Low,Urban,4,3,3,4,4,3,5,4,3,3,3,3,4,BJP,BJP
+339,Visakhapatnam (Vizag),69,Female,Postgraduate,Private Job,Middle,Rural,3,3,4,4,3,4,3,3,5,4,3,5,4,JanaSena,JanaSena
+340,Visakhapatnam (Vizag),58,Female,Graduate,Self-Employed,High,Rural,4,4,3,4,4,4,2,3,3,4,3,4,5,TDP,TDP
+341,Visakhapatnam (Vizag),50,Male,Graduate,Fisherman,Low,Coastal,4,4,3,3,4,4,3,3,5,4,4,4,4,TDP,TDP
+342,Visakhapatnam (Vizag),57,Female,Secondary,Government Employee,Low,Rural,4,4,3,3,5,4,3,3,4,4,4,3,4,YSRCP,TDP
+343,Visakhapatnam (Vizag),56,Female,Primary,Private Job,Low,Coastal,4,4,4,2,5,4,2,3,3,4,3,4,3,YSRCP,YSRCP
+344,Visakhapatnam (Vizag),35,Female,Secondary,Private Job,Middle,Coastal,3,4,2,4,4,3,4,5,3,3,3,4,4,BJP,BJP
+345,Visakhapatnam (Vizag),57,Male,Graduate,Student,High,Rural,4,4,3,3,3,3,4,5,3,3,3,4,3,BJP,BJP
+346,Visakhapatnam (Vizag),18,Male,Secondary,Government Employee,Low,Rural,4,5,4,3,4,4,2,3,3,4,3,4,4,YSRCP,YSRCP
+347,Visakhapatnam (Vizag),28,Female,Secondary,Private Job,Middle,Coastal,4,2,4,4,4,5,3,3,3,3,3,4,4,JanaSena,JanaSena
+348,Visakhapatnam (Vizag),45,Male,Graduate,Private Job,Middle,Rural,3,4,4,2,4,4,4,3,3,4,4,4,4,YSRCP,YSRCP
+349,Visakhapatnam (Vizag),74,Male,Primary,Self-Employed,Middle,Coastal,4,3,4,3,4,5,3,2,2,4,5,4,3,JanaSena,JanaSena
+350,Visakhapatnam (Vizag),42,Male,Graduate,Fisherman,Low,Rural,4,4,3,4,5,4,4,3,4,5,4,3,3,BJP,BJP
+351,Visakhapatnam (Vizag),67,Female,Primary,Private Job,Low,Rural,4,4,4,1,5,4,3,3,4,4,3,4,4,BJP,YSRCP
+352,Visakhapatnam (Vizag),40,Male,Postgraduate,Self-Employed,Low,Urban,4,4,3,4,4,4,3,4,4,4,4,4,3,TDP,TDP
+353,Visakhapatnam (Vizag),48,Female,Secondary,Self-Employed,Middle,Urban,4,5,4,4,4,4,3,4,3,4,4,4,4,TDP,TDP
+354,Visakhapatnam (Vizag),47,Female,Secondary,Private Job,Low,Coastal,5,4,5,2,4,4,3,3,3,3,4,3,4,YSRCP,YSRCP
+355,Visakhapatnam (Vizag),59,Female,Secondary,Student,High,Rural,4,5,3,3,3,3,3,4,4,4,4,4,5,TDP,TDP
+356,Visakhapatnam (Vizag),52,Female,Secondary,Self-Employed,Low,Rural,4,4,3,4,4,3,3,3,3,4,4,3,4,TDP,TDP
+357,Visakhapatnam (Vizag),24,Female,Graduate,Self-Employed,Low,Coastal,3,4,3,3,4,3,3,4,3,4,3,3,4,BJP,BJP
+358,Visakhapatnam (Vizag),77,Female,Graduate,Private Job,Middle,Rural,5,3,4,3,4,4,4,3,3,3,4,4,4,YSRCP,YSRCP
+359,Visakhapatnam (Vizag),33,Male,Graduate,Private Job,Middle,Rural,3,4,3,3,3,4,2,3,3,4,3,3,3,YSRCP,TDP
+360,Visakhapatnam (Vizag),43,Female,Primary,Private Job,Low,Coastal,4,4,3,3,4,4,3,3,4,3,3,4,4,YSRCP,YSRCP
+361,Visakhapatnam (Vizag),65,Male,Secondary,Private Job,Low,Rural,2,4,4,4,4,3,3,4,3,4,3,4,3,YSRCP,BJP
+362,Visakhapatnam (Vizag),74,Male,Primary,Government Employee,High,Urban,4,4,4,3,4,5,3,3,2,4,3,4,4,YSRCP,YSRCP
+363,Visakhapatnam (Vizag),69,Male,Graduate,Fisherman,Low,Urban,3,3,4,4,3,4,3,2,3,5,3,4,4,JanaSena,JanaSena
+364,Visakhapatnam (Vizag),77,Female,Postgraduate,Government Employee,Low,Urban,4,4,3,5,4,4,4,4,4,4,3,3,4,BJP,BJP
+365,Visakhapatnam (Vizag),66,Male,Secondary,Private Job,Middle,Urban,4,4,3,4,4,4,3,3,4,4,4,5,4,TDP,TDP
+366,Visakhapatnam (Vizag),19,Female,Secondary,Private Job,Low,Rural,4,4,3,3,4,4,3,3,3,3,3,3,4,TDP,TDP
+367,Visakhapatnam (Vizag),18,Female,Graduate,Self-Employed,Middle,Urban,4,4,4,2,3,4,3,4,3,4,3,4,4,YSRCP,YSRCP
+368,Visakhapatnam (Vizag),65,Female,Graduate,Private Job,Low,Urban,5,3,5,3,3,3,2,2,3,5,4,3,4,YSRCP,YSRCP
+369,Visakhapatnam (Vizag),79,Female,Graduate,Fisherman,Low,Urban,5,4,5,3,3,5,3,3,3,4,3,5,4,JanaSena,JanaSena
+370,Visakhapatnam (Vizag),29,Female,Postgraduate,Self-Employed,Low,Urban,4,3,4,3,3,4,3,4,3,3,4,3,4,JanaSena,JanaSena
+371,Visakhapatnam (Vizag),22,Female,Secondary,Fisherman,Low,Rural,4,4,3,2,5,5,3,4,3,4,3,4,3,BJP,YSRCP
+372,Visakhapatnam (Vizag),54,Female,Secondary,Student,Low,Coastal,4,4,4,4,4,4,3,4,3,5,5,5,4,YSRCP,TDP
+373,Visakhapatnam (Vizag),49,Female,Postgraduate,Student,Low,Rural,3,5,4,4,4,4,4,4,2,3,2,4,3,BJP,BJP
+374,Visakhapatnam (Vizag),76,Female,Graduate,Private Job,Middle,Urban,3,5,4,4,4,5,3,3,3,5,4,4,4,TDP,TDP
+375,Visakhapatnam (Vizag),72,Female,Secondary,Self-Employed,Low,Urban,4,5,4,2,4,4,2,2,3,3,3,4,3,YSRCP,BJP
+376,Visakhapatnam (Vizag),26,Male,Graduate,Private Job,Low,Urban,4,4,4,3,4,5,4,3,4,4,4,4,4,YSRCP,YSRCP
+377,Visakhapatnam (Vizag),58,Male,Graduate,Private Job,Middle,Rural,4,3,4,2,4,4,3,4,3,4,3,4,4,TDP,YSRCP
+378,Visakhapatnam (Vizag),52,Male,Graduate,Fisherman,Middle,Urban,5,4,4,4,4,4,5,3,2,4,4,4,3,BJP,BJP
+379,Visakhapatnam (Vizag),36,Male,Graduate,Private Job,Low,Rural,3,4,4,4,4,4,3,3,3,5,4,2,3,TDP,TDP
+380,Visakhapatnam (Vizag),65,Female,Secondary,Self-Employed,High,Urban,5,5,3,4,4,4,3,3,4,4,4,4,3,YSRCP,TDP
+381,Visakhapatnam (Vizag),33,Female,Secondary,Private Job,Low,Coastal,3,4,4,2,4,5,4,3,3,3,4,4,4,JanaSena,JanaSena
+382,Visakhapatnam (Vizag),20,Female,Secondary,Private Job,Low,Urban,3,4,3,4,4,3,4,3,3,4,4,5,4,TDP,TDP
+383,Visakhapatnam (Vizag),37,Male,Graduate,Private Job,Middle,Urban,3,3,3,4,4,4,4,3,3,4,3,4,4,JanaSena,JanaSena
+384,Visakhapatnam (Vizag),41,Female,Graduate,Government Employee,Middle,Coastal,4,4,4,4,4,4,3,3,4,4,4,4,4,TDP,TDP
+385,Visakhapatnam (Vizag),71,Female,Graduate,Fisherman,Low,Urban,4,4,4,3,4,3,3,3,3,4,3,4,3,YSRCP,YSRCP
+386,Visakhapatnam (Vizag),73,Female,Primary,Private Job,Low,Urban,4,4,4,3,4,4,4,3,3,4,3,4,2,JanaSena,JanaSena
+387,Visakhapatnam (Vizag),50,Female,Graduate,Student,Middle,Rural,5,5,3,4,4,4,3,3,3,4,3,3,4,TDP,TDP
+388,Visakhapatnam (Vizag),41,Female,Graduate,Private Job,Low,Rural,4,4,4,2,4,5,3,3,4,4,4,4,4,YSRCP,TDP
+389,Visakhapatnam (Vizag),69,Male,Graduate,Private Job,High,Rural,4,3,4,3,4,4,3,2,4,4,3,3,3,YSRCP,BJP
+390,Visakhapatnam (Vizag),28,Female,Graduate,Fisherman,Low,Urban,3,3,4,2,3,5,2,4,3,4,3,4,4,YSRCP,YSRCP
+391,Visakhapatnam (Vizag),66,Male,Graduate,Private Job,Middle,Urban,4,4,3,4,4,4,2,3,4,4,3,3,4,YSRCP,TDP
+392,Visakhapatnam (Vizag),25,Male,Secondary,Self-Employed,Middle,Urban,4,4,3,4,3,3,4,3,3,3,3,4,4,JanaSena,JanaSena
+393,Visakhapatnam (Vizag),53,Female,Secondary,Fisherman,Middle,Urban,4,4,4,3,3,4,4,3,2,4,4,4,3,None,JanaSena
+394,Visakhapatnam (Vizag),55,Male,Primary,Fisherman,Middle,Coastal,3,4,3,3,4,5,3,3,4,3,4,4,2,JanaSena,JanaSena
+395,Visakhapatnam (Vizag),57,Female,Secondary,Private Job,Middle,Rural,3,4,5,3,4,5,2,3,3,4,4,4,4,YSRCP,YSRCP
+396,Visakhapatnam (Vizag),37,Male,Graduate,Student,Low,Urban,3,5,3,3,5,4,3,3,4,3,4,4,3,TDP,TDP
+397,Visakhapatnam (Vizag),79,Female,Graduate,Government Employee,Low,Rural,4,4,4,3,3,5,4,3,4,3,3,4,3,YSRCP,YSRCP
+398,Visakhapatnam (Vizag),52,Male,Secondary,Private Job,Low,Urban,4,3,5,4,3,4,3,2,3,4,3,4,4,TDP,JanaSena
+399,Visakhapatnam (Vizag),65,Female,Primary,Student,Middle,Coastal,4,3,4,3,4,3,3,2,4,4,4,3,3,TDP,TDP
+400,Visakhapatnam (Vizag),79,Female,Graduate,Government Employee,Middle,Urban,4,4,3,3,5,3,3,4,4,4,4,4,3,TDP,TDP
+401,Visakhapatnam (Vizag),42,Male,Primary,Self-Employed,Low,Urban,4,4,3,4,4,4,5,4,3,4,3,3,4,BJP,BJP
+402,Visakhapatnam (Vizag),52,Female,Secondary,Self-Employed,Low,Rural,4,4,4,3,4,4,4,3,4,4,4,5,4,YSRCP,TDP
+403,Visakhapatnam (Vizag),42,Female,Primary,Private Job,Low,Rural,4,4,4,4,5,5,3,3,3,4,3,4,3,YSRCP,YSRCP
+404,Visakhapatnam (Vizag),46,Male,Secondary,Private Job,Middle,Rural,3,4,4,4,3,4,3,3,3,3,4,4,3,JanaSena,JanaSena
+405,Visakhapatnam (Vizag),35,Male,Secondary,Fisherman,Middle,Urban,4,4,3,3,3,5,3,3,3,4,4,5,5,JanaSena,JanaSena
+406,Visakhapatnam (Vizag),63,Male,Secondary,Private Job,Middle,Urban,4,4,5,1,3,5,3,3,4,3,3,4,4,YSRCP,YSRCP
+407,Visakhapatnam (Vizag),35,Male,Secondary,Self-Employed,High,Urban,4,5,2,4,4,4,3,3,3,4,4,3,4,TDP,YSRCP
+408,Visakhapatnam (Vizag),19,Female,Postgraduate,Private Job,Low,Urban,3,4,4,3,4,5,2,3,3,4,3,4,4,JanaSena,JanaSena
+409,Visakhapatnam (Vizag),71,Female,Secondary,Private Job,Middle,Coastal,4,4,4,3,3,4,2,4,3,4,2,3,4,YSRCP,YSRCP
+410,Visakhapatnam (Vizag),52,Male,Graduate,Student,Low,Urban,5,4,3,3,5,4,4,4,3,4,4,3,4,TDP,TDP
+411,Visakhapatnam (Vizag),33,Male,Primary,Private Job,Low,Urban,4,4,4,2,4,5,3,4,3,4,4,5,3,YSRCP,YSRCP
+412,Visakhapatnam (Vizag),78,Female,Secondary,Fisherman,Low,Rural,4,3,4,3,4,4,3,4,4,4,3,3,4,TDP,TDP
+413,Visakhapatnam (Vizag),58,Male,Graduate,Private Job,Low,Urban,5,4,4,3,4,4,3,3,3,4,4,3,4,YSRCP,YSRCP
+414,Visakhapatnam (Vizag),53,Male,Primary,Private Job,Middle,Rural,3,5,2,4,3,5,3,3,3,4,4,4,5,TDP,TDP
+415,Visakhapatnam (Vizag),50,Female,Secondary,Student,Low,Coastal,5,5,4,3,4,4,3,3,3,4,4,5,4,YSRCP,YSRCP
+416,Visakhapatnam (Vizag),21,Female,Graduate,Fisherman,Middle,Urban,4,5,4,3,4,5,3,3,3,4,5,4,5,TDP,TDP
+417,Visakhapatnam (Vizag),50,Female,Graduate,Private Job,High,Coastal,4,4,3,4,3,4,3,3,3,4,3,5,4,JanaSena,YSRCP
+418,Visakhapatnam (Vizag),31,Female,Primary,Private Job,Middle,Rural,3,4,3,4,4,3,5,4,3,4,2,5,3,BJP,BJP
+419,Visakhapatnam (Vizag),38,Female,Secondary,Private Job,Low,Urban,3,3,3,4,4,3,4,4,3,3,2,3,3,BJP,BJP
+420,Visakhapatnam (Vizag),65,Female,Graduate,Government Employee,Middle,Urban,4,4,3,3,5,4,3,4,4,4,3,4,5,None,TDP
+421,Visakhapatnam (Vizag),37,Male,Primary,Private Job,Low,Urban,5,3,5,3,3,4,3,3,3,4,5,3,4,YSRCP,YSRCP
+422,Visakhapatnam (Vizag),73,Male,Graduate,Private Job,Middle,Rural,5,5,3,3,4,5,4,3,3,4,3,3,5,YSRCP,YSRCP
+423,Visakhapatnam (Vizag),25,Male,Graduate,Self-Employed,Middle,Coastal,3,3,4,3,4,4,2,3,4,4,4,5,3,JanaSena,JanaSena
+424,Visakhapatnam (Vizag),24,Male,Postgraduate,Government Employee,Middle,Coastal,4,4,4,3,3,4,3,3,4,4,4,4,3,TDP,TDP
+425,Visakhapatnam (Vizag),20,Female,Secondary,Fisherman,Low,Coastal,5,5,4,2,4,5,3,3,4,3,3,5,3,YSRCP,YSRCP
+426,Visakhapatnam (Vizag),34,Male,Graduate,Government Employee,Middle,Coastal,3,3,4,5,4,3,5,5,2,3,2,3,4,None,BJP
+427,Visakhapatnam (Vizag),50,Male,Secondary,Student,Low,Rural,4,3,4,3,3,4,3,4,3,3,3,4,3,YSRCP,YSRCP
+428,Visakhapatnam (Vizag),65,Male,Secondary,Student,Low,Urban,3,4,4,2,3,4,3,2,4,4,4,4,4,YSRCP,YSRCP
+429,Visakhapatnam (Vizag),29,Male,Primary,Fisherman,Low,Rural,3,4,4,4,4,4,2,3,3,4,3,5,3,JanaSena,JanaSena
+430,Visakhapatnam (Vizag),76,Female,Graduate,Self-Employed,Low,Urban,3,3,4,4,3,5,4,2,3,4,3,3,3,None,JanaSena
+431,Visakhapatnam (Vizag),68,Male,Secondary,Private Job,Low,Rural,4,4,3,4,5,3,4,3,3,4,4,4,4,TDP,TDP
+432,Visakhapatnam (Vizag),39,Female,Secondary,Fisherman,Middle,Urban,4,4,4,3,3,4,3,3,4,4,4,4,4,JanaSena,JanaSena
+433,Visakhapatnam (Vizag),72,Male,Primary,Fisherman,High,Urban,2,4,3,4,5,3,4,5,2,3,3,4,4,JanaSena,BJP
+434,Visakhapatnam (Vizag),39,Female,Graduate,Fisherman,Low,Urban,4,4,3,4,4,2,4,4,3,4,3,4,4,None,BJP
+435,Visakhapatnam (Vizag),63,Female,Graduate,Self-Employed,Low,Urban,4,4,4,3,4,5,3,3,3,4,3,4,4,JanaSena,YSRCP
+436,Visakhapatnam (Vizag),47,Male,Graduate,Fisherman,Low,Rural,4,4,4,3,4,4,3,3,3,5,4,3,3,YSRCP,TDP
+437,Visakhapatnam (Vizag),55,Female,Secondary,Fisherman,Low,Urban,4,5,4,5,4,5,3,3,4,5,4,3,4,TDP,TDP
+438,Visakhapatnam (Vizag),55,Male,Secondary,Self-Employed,Low,Rural,3,2,4,2,4,4,4,3,3,3,2,4,4,JanaSena,JanaSena
+439,Visakhapatnam (Vizag),62,Male,Graduate,Private Job,High,Urban,4,5,4,3,4,4,4,3,4,4,3,4,4,TDP,TDP
+440,Visakhapatnam (Vizag),68,Female,Secondary,Fisherman,Low,Rural,5,4,5,2,4,4,2,4,3,4,4,4,4,YSRCP,YSRCP
+441,Visakhapatnam (Vizag),71,Male,Secondary,Fisherman,Low,Urban,4,4,4,3,4,5,3,3,4,3,3,4,4,TDP,YSRCP
+442,Visakhapatnam (Vizag),25,Male,Graduate,Fisherman,Low,Urban,3,4,3,5,4,4,4,5,3,4,3,3,4,BJP,BJP
+443,Visakhapatnam (Vizag),44,Female,Postgraduate,Private Job,Middle,Rural,4,4,4,3,4,5,3,3,4,4,4,4,4,BJP,YSRCP
+444,Visakhapatnam (Vizag),44,Male,Graduate,Government Employee,Middle,Urban,4,5,4,4,3,4,3,3,3,3,3,4,4,TDP,TDP
+445,Visakhapatnam (Vizag),51,Female,Graduate,Fisherman,High,Urban,4,4,5,2,4,4,4,3,4,4,3,4,3,YSRCP,YSRCP
+446,Visakhapatnam (Vizag),38,Male,Postgraduate,Fisherman,Middle,Urban,4,4,4,3,4,3,3,4,4,3,3,4,3,YSRCP,YSRCP
+447,Visakhapatnam (Vizag),47,Female,Secondary,Student,Low,Urban,4,4,3,4,3,3,4,4,3,3,4,4,4,BJP,BJP
+448,Visakhapatnam (Vizag),50,Female,Graduate,Government Employee,Low,Rural,3,5,2,3,4,4,5,4,4,3,4,4,4,YSRCP,BJP
+449,Visakhapatnam (Vizag),45,Female,Postgraduate,Private Job,Middle,Urban,4,3,4,2,4,4,3,4,3,3,3,4,4,TDP,YSRCP
+450,Visakhapatnam (Vizag),64,Female,Secondary,Private Job,Low,Rural,5,5,5,2,5,5,2,3,3,4,3,4,4,YSRCP,YSRCP
+451,Visakhapatnam (Vizag),50,Male,Graduate,Private Job,Middle,Coastal,3,3,3,4,3,3,4,5,3,4,2,3,3,JanaSena,BJP
+452,Visakhapatnam (Vizag),22,Female,Graduate,Private Job,Low,Urban,3,4,4,3,4,4,3,4,3,4,3,3,4,YSRCP,YSRCP
+453,Visakhapatnam (Vizag),77,Male,Graduate,Private Job,Low,Coastal,4,4,3,4,4,4,3,4,4,4,3,4,4,TDP,TDP
+454,Visakhapatnam (Vizag),78,Male,Graduate,Private Job,Middle,Rural,5,4,3,3,4,4,4,3,3,4,3,4,4,None,JanaSena
+455,Visakhapatnam (Vizag),65,Male,Postgraduate,Self-Employed,Middle,Rural,4,3,3,2,3,4,3,4,4,4,3,4,4,TDP,YSRCP
+456,Visakhapatnam (Vizag),36,Female,Graduate,Fisherman,Middle,Rural,4,3,4,3,3,4,3,3,3,4,4,4,4,YSRCP,BJP
+457,Visakhapatnam (Vizag),21,Male,Primary,Student,Low,Rural,4,4,4,3,3,4,2,2,4,4,3,3,4,YSRCP,YSRCP
+458,Visakhapatnam (Vizag),52,Female,Postgraduate,Fisherman,Middle,Rural,5,4,5,3,4,3,4,3,4,4,3,5,4,TDP,TDP
+459,Visakhapatnam (Vizag),66,Female,Secondary,Student,Low,Urban,4,4,4,4,3,4,3,3,3,4,4,4,4,TDP,TDP
+460,Visakhapatnam (Vizag),34,Female,Secondary,Government Employee,Low,Urban,4,4,4,3,3,4,3,4,3,3,3,4,4,JanaSena,JanaSena
+461,Visakhapatnam (Vizag),61,Male,Secondary,Self-Employed,Low,Urban,5,5,3,1,3,4,4,3,3,4,3,4,4,YSRCP,YSRCP
+462,Visakhapatnam (Vizag),45,Female,Secondary,Fisherman,Low,Urban,4,5,3,3,3,4,4,4,3,5,4,4,4,None,TDP
+463,Visakhapatnam (Vizag),47,Male,Secondary,Government Employee,Low,Urban,3,3,4,3,4,3,3,2,4,3,4,4,4,JanaSena,JanaSena
+464,Visakhapatnam (Vizag),46,Male,Postgraduate,Private Job,Low,Urban,4,3,3,4,4,5,2,4,4,5,4,3,4,TDP,TDP
+465,Visakhapatnam (Vizag),63,Male,Graduate,Student,Low,Urban,4,3,3,4,3,4,3,2,3,4,4,4,4,YSRCP,TDP
+466,Visakhapatnam (Vizag),70,Male,Graduate,Private Job,Low,Rural,4,5,5,2,3,3,4,3,3,3,3,4,3,YSRCP,YSRCP
+467,Visakhapatnam (Vizag),23,Female,Primary,Private Job,Low,Coastal,5,4,4,4,3,4,5,5,2,4,3,3,3,TDP,BJP
+468,Visakhapatnam (Vizag),52,Female,Postgraduate,Private Job,Low,Coastal,4,4,4,3,3,4,2,3,4,4,3,4,4,TDP,YSRCP
+469,Visakhapatnam (Vizag),77,Male,Postgraduate,Private Job,Low,Urban,5,3,3,3,5,4,3,3,4,5,4,5,4,TDP,YSRCP
+470,Visakhapatnam (Vizag),58,Male,Graduate,Private Job,Middle,Rural,4,4,3,3,5,4,3,3,4,4,4,4,4,TDP,TDP
+471,Visakhapatnam (Vizag),54,Male,Primary,Fisherman,Low,Coastal,4,4,4,3,5,4,3,4,4,4,3,4,3,YSRCP,YSRCP
+472,Visakhapatnam (Vizag),41,Male,Primary,Self-Employed,Low,Urban,4,4,4,4,3,4,3,2,3,4,5,4,3,JanaSena,JanaSena
+473,Visakhapatnam (Vizag),46,Female,Secondary,Student,Low,Urban,4,4,3,3,4,4,4,4,4,4,3,4,4,JanaSena,JanaSena
+474,Visakhapatnam (Vizag),66,Male,Primary,Self-Employed,Middle,Coastal,3,4,4,4,3,3,5,5,3,4,3,3,3,BJP,BJP
+475,Visakhapatnam (Vizag),63,Male,Secondary,Private Job,Middle,Rural,4,4,3,4,3,3,4,4,3,3,3,4,4,None,JanaSena
+476,Visakhapatnam (Vizag),70,Male,Postgraduate,Self-Employed,Middle,Urban,3,4,3,5,4,3,5,4,3,3,3,4,3,BJP,BJP
+477,Visakhapatnam (Vizag),48,Female,Secondary,Self-Employed,Middle,Urban,4,3,4,2,4,4,3,3,4,4,4,4,3,YSRCP,YSRCP
+478,Visakhapatnam (Vizag),52,Female,Primary,Government Employee,Middle,Urban,3,4,3,4,4,4,4,4,2,4,4,3,2,BJP,BJP
+479,Visakhapatnam (Vizag),77,Female,Secondary,Government Employee,Middle,Coastal,4,4,4,2,4,5,3,3,4,4,3,4,4,YSRCP,TDP
+480,Visakhapatnam (Vizag),50,Female,Primary,Private Job,Middle,Rural,4,4,4,3,3,5,3,3,4,4,4,4,4,TDP,YSRCP
+481,Visakhapatnam (Vizag),69,Female,Primary,Self-Employed,Low,Urban,4,4,3,5,4,4,4,3,3,4,3,4,3,BJP,BJP
+482,Visakhapatnam (Vizag),78,Male,Secondary,Private Job,Low,Urban,4,4,3,3,3,4,3,3,3,3,4,4,3,TDP,TDP
+483,Visakhapatnam (Vizag),38,Female,Secondary,Fisherman,Low,Rural,3,3,5,3,3,4,3,3,3,3,3,4,3,YSRCP,JanaSena
+484,Visakhapatnam (Vizag),49,Female,Graduate,Private Job,High,Rural,4,3,4,3,4,5,3,3,3,4,3,3,4,JanaSena,YSRCP
+485,Visakhapatnam (Vizag),40,Female,Postgraduate,Self-Employed,Middle,Urban,3,5,3,4,4,4,3,4,3,4,5,4,4,TDP,TDP
+486,Visakhapatnam (Vizag),50,Female,Secondary,Self-Employed,Middle,Coastal,4,4,5,3,3,4,3,3,4,4,4,3,4,YSRCP,BJP
+487,Visakhapatnam (Vizag),20,Female,Secondary,Self-Employed,Low,Urban,4,5,3,3,4,4,4,4,3,4,3,4,4,TDP,TDP
+488,Visakhapatnam (Vizag),35,Female,Graduate,Government Employee,Low,Urban,4,4,4,4,4,5,4,4,3,3,4,4,3,TDP,BJP
+489,Visakhapatnam (Vizag),42,Female,Secondary,Private Job,Low,Rural,5,5,3,4,4,4,3,4,4,4,3,4,4,TDP,TDP
+490,Visakhapatnam (Vizag),59,Female,Secondary,Fisherman,Low,Urban,5,3,4,2,4,4,3,3,3,4,4,4,4,TDP,YSRCP
+491,Visakhapatnam (Vizag),48,Female,Postgraduate,Fisherman,Middle,Coastal,5,3,4,2,3,4,3,3,2,4,4,5,4,YSRCP,YSRCP
+492,Visakhapatnam (Vizag),71,Female,Primary,Fisherman,Middle,Rural,5,4,5,2,4,5,3,4,3,4,4,3,3,YSRCP,YSRCP
+493,Visakhapatnam (Vizag),75,Male,Graduate,Private Job,Low,Coastal,5,4,3,3,4,4,2,4,4,3,4,3,4,TDP,TDP
+494,Visakhapatnam (Vizag),20,Female,Graduate,Fisherman,Middle,Urban,3,3,3,3,3,4,2,2,3,4,3,4,4,JanaSena,YSRCP
+495,Visakhapatnam (Vizag),57,Male,Secondary,Private Job,Low,Urban,4,4,4,3,4,4,3,3,4,4,4,4,4,YSRCP,YSRCP
+496,Visakhapatnam (Vizag),63,Female,Secondary,Self-Employed,High,Urban,3,4,3,3,4,3,5,4,2,4,3,4,3,BJP,BJP
+497,Visakhapatnam (Vizag),41,Female,Graduate,Private Job,Low,Rural,4,4,4,4,3,4,3,3,3,4,3,4,3,BJP,JanaSena
+498,Visakhapatnam (Vizag),67,Female,Primary,Self-Employed,Low,Rural,4,4,4,3,4,3,4,3,3,4,4,3,4,TDP,TDP
+499,Visakhapatnam (Vizag),49,Male,Secondary,Government Employee,Low,Coastal,3,4,4,3,4,4,4,4,3,4,3,3,3,BJP,BJP
+500,Visakhapatnam (Vizag),64,Male,Graduate,Private Job,Low,Rural,4,3,3,4,4,4,5,4,2,3,4,4,2,BJP,BJP
+501,Visakhapatnam (Vizag),39,Male,Secondary,Private Job,Low,Coastal,5,4,4,3,4,4,4,3,3,4,4,3,4,YSRCP,YSRCP
+502,Visakhapatnam (Vizag),40,Female,Primary,Fisherman,Middle,Rural,4,3,4,2,4,4,3,3,4,4,3,4,4,YSRCP,YSRCP
+503,Visakhapatnam (Vizag),19,Male,Postgraduate,Private Job,Middle,Urban,4,3,5,2,3,4,3,3,3,4,3,4,5,YSRCP,YSRCP
+504,Visakhapatnam (Vizag),44,Male,Secondary,Government Employee,Middle,Urban,3,3,3,4,3,4,3,4,2,3,3,4,3,JanaSena,JanaSena
+505,Visakhapatnam (Vizag),59,Male,Graduate,Fisherman,Low,Rural,4,4,3,3,3,4,3,4,4,4,4,4,4,JanaSena,JanaSena
+506,Visakhapatnam (Vizag),19,Female,Graduate,Private Job,Middle,Urban,4,4,3,4,4,4,5,5,3,3,3,3,3,YSRCP,BJP
+507,Visakhapatnam (Vizag),43,Female,Graduate,Private Job,Low,Urban,3,5,3,3,4,3,3,4,3,4,3,4,4,YSRCP,YSRCP
+508,Visakhapatnam (Vizag),34,Male,Secondary,Self-Employed,Low,Rural,4,5,3,4,4,3,4,3,4,5,5,3,4,YSRCP,TDP
+509,Visakhapatnam (Vizag),57,Male,Postgraduate,Student,Middle,Coastal,4,4,4,3,4,5,2,3,4,5,4,4,4,YSRCP,JanaSena
+510,Visakhapatnam (Vizag),50,Female,Primary,Student,Middle,Urban,5,4,5,3,5,4,3,3,3,4,4,4,4,YSRCP,YSRCP
+511,Visakhapatnam (Vizag),26,Female,Graduate,Fisherman,Low,Coastal,4,4,3,4,4,3,4,3,4,5,4,3,4,YSRCP,TDP
+512,Visakhapatnam (Vizag),60,Female,Secondary,Student,Low,Coastal,4,4,4,3,3,5,3,3,3,4,3,3,3,YSRCP,TDP
+513,Visakhapatnam (Vizag),71,Male,Secondary,Student,High,Urban,4,4,4,4,3,4,3,4,4,4,4,4,4,JanaSena,JanaSena
+514,Visakhapatnam (Vizag),65,Female,Secondary,Government Employee,Low,Urban,4,4,4,4,3,3,5,5,3,4,3,3,3,BJP,BJP
+515,Visakhapatnam (Vizag),56,Male,Postgraduate,Self-Employed,Low,Urban,5,4,4,3,3,5,3,3,4,4,4,4,5,YSRCP,YSRCP
+516,Visakhapatnam (Vizag),46,Female,Postgraduate,Private Job,Middle,Rural,4,5,5,4,3,5,2,4,2,3,4,4,3,JanaSena,YSRCP
+517,Visakhapatnam (Vizag),59,Female,Secondary,Self-Employed,Low,Rural,4,4,4,3,4,4,3,4,5,4,3,4,3,YSRCP,YSRCP
+518,Visakhapatnam (Vizag),72,Male,Primary,Self-Employed,Low,Coastal,4,4,4,3,3,3,4,4,4,3,3,4,4,BJP,BJP
+519,Visakhapatnam (Vizag),43,Male,Graduate,Fisherman,Low,Rural,3,4,4,4,3,3,4,3,3,3,4,4,4,None,BJP
+520,Visakhapatnam (Vizag),52,Female,Secondary,Private Job,Middle,Urban,4,4,2,3,4,4,4,3,3,3,3,3,4,TDP,TDP
+521,Visakhapatnam (Vizag),67,Female,Primary,Self-Employed,Middle,Urban,4,4,4,3,5,5,3,3,3,4,4,5,4,TDP,TDP
+522,Visakhapatnam (Vizag),42,Female,Graduate,Fisherman,Middle,Rural,4,4,5,3,3,3,3,3,4,4,4,4,3,YSRCP,YSRCP
+523,Visakhapatnam (Vizag),41,Female,Secondary,Private Job,High,Urban,4,4,5,3,3,4,2,4,4,4,4,4,3,BJP,JanaSena
+524,Visakhapatnam (Vizag),30,Female,Postgraduate,Self-Employed,Middle,Urban,4,4,3,3,3,4,3,4,4,4,4,3,4,TDP,TDP
+525,Visakhapatnam (Vizag),77,Female,Secondary,Government Employee,Low,Urban,4,4,4,2,4,5,4,3,3,4,3,4,4,TDP,YSRCP
+526,Visakhapatnam (Vizag),75,Male,Secondary,Fisherman,Low,Urban,4,5,3,4,4,4,3,3,4,4,3,3,4,None,TDP
+527,Visakhapatnam (Vizag),24,Female,Secondary,Government Employee,Middle,Urban,2,3,4,3,4,5,3,3,2,3,3,5,3,JanaSena,JanaSena
+528,Visakhapatnam (Vizag),74,Male,Graduate,Private Job,Middle,Urban,3,4,4,4,4,3,3,3,3,4,5,4,4,JanaSena,TDP
+529,Visakhapatnam (Vizag),53,Male,Secondary,Private Job,Middle,Urban,4,4,5,3,4,3,3,4,3,4,3,4,4,TDP,YSRCP
+530,Visakhapatnam (Vizag),62,Female,Graduate,Fisherman,Middle,Urban,4,3,4,3,4,5,3,3,3,4,4,4,3,JanaSena,YSRCP
+531,Visakhapatnam (Vizag),37,Male,Secondary,Government Employee,Low,Rural,2,4,4,4,4,4,3,4,4,4,4,5,4,TDP,TDP
+532,Visakhapatnam (Vizag),18,Male,Graduate,Private Job,Low,Coastal,3,4,3,3,3,4,3,4,3,4,5,3,4,TDP,TDP
+533,Visakhapatnam (Vizag),25,Male,Secondary,Student,Low,Urban,3,4,3,3,5,3,3,4,3,4,4,3,4,TDP,TDP
+534,Visakhapatnam (Vizag),63,Female,Primary,Government Employee,Low,Coastal,4,4,3,3,5,4,3,4,3,4,4,3,4,TDP,TDP
+535,Visakhapatnam (Vizag),33,Male,Graduate,Private Job,Low,Urban,4,4,3,3,4,4,4,3,3,5,4,3,3,YSRCP,TDP
+536,Visakhapatnam (Vizag),31,Male,Secondary,Government Employee,Middle,Rural,3,4,3,4,3,4,4,4,3,4,2,4,3,BJP,BJP
+537,Visakhapatnam (Vizag),29,Male,Primary,Fisherman,Middle,Coastal,5,4,5,3,4,5,3,2,4,4,4,4,5,YSRCP,TDP
+538,Visakhapatnam (Vizag),68,Male,Postgraduate,Government Employee,Low,Rural,4,4,4,3,4,3,4,3,4,2,4,3,4,BJP,BJP
+539,Visakhapatnam (Vizag),40,Male,Secondary,Fisherman,Middle,Coastal,4,4,4,2,3,4,3,4,3,4,4,4,4,YSRCP,YSRCP
+540,Visakhapatnam (Vizag),32,Male,Graduate,Self-Employed,Middle,Urban,4,3,5,3,4,4,3,3,4,4,3,4,4,None,YSRCP
+541,Visakhapatnam (Vizag),45,Female,Secondary,Fisherman,Low,Urban,3,4,3,3,4,4,3,3,4,5,4,3,4,TDP,TDP
+542,Visakhapatnam (Vizag),51,Male,Graduate,Private Job,Middle,Coastal,4,5,4,3,4,4,3,3,4,3,4,4,3,TDP,TDP
+543,Visakhapatnam (Vizag),19,Male,Primary,Government Employee,Middle,Urban,3,4,4,3,3,5,3,3,3,4,3,4,3,YSRCP,JanaSena
+544,Visakhapatnam (Vizag),49,Male,Secondary,Private Job,Middle,Urban,3,4,3,4,4,4,5,4,2,4,3,3,4,BJP,BJP
+545,Visakhapatnam (Vizag),40,Male,Postgraduate,Fisherman,Middle,Rural,4,4,3,3,4,4,2,4,3,3,3,4,4,JanaSena,JanaSena
+546,Visakhapatnam (Vizag),39,Female,Graduate,Government Employee,Middle,Coastal,4,4,4,2,3,4,4,4,5,4,4,4,4,JanaSena,JanaSena
+547,Visakhapatnam (Vizag),68,Female,Secondary,Government Employee,Low,Coastal,4,4,4,3,4,4,3,3,3,4,3,4,4,TDP,TDP
+548,Visakhapatnam (Vizag),42,Male,Secondary,Student,Low,Urban,4,4,4,4,4,5,3,4,4,3,3,3,3,TDP,TDP
+549,Visakhapatnam (Vizag),75,Male,Postgraduate,Private Job,Low,Coastal,2,4,3,4,4,4,3,4,2,4,4,4,3,TDP,TDP
+550,Visakhapatnam (Vizag),79,Male,Secondary,Government Employee,High,Urban,3,3,4,4,2,4,4,3,4,4,4,4,3,JanaSena,JanaSena
+551,Visakhapatnam (Vizag),78,Female,Graduate,Private Job,Low,Urban,3,4,3,5,3,4,4,4,2,3,3,4,4,BJP,BJP
+552,Visakhapatnam (Vizag),39,Female,Graduate,Government Employee,Low,Rural,5,4,4,3,5,5,3,3,2,4,3,4,3,YSRCP,YSRCP
+553,Visakhapatnam (Vizag),75,Female,Primary,Government Employee,Middle,Urban,4,4,3,4,3,3,5,4,3,4,4,4,4,YSRCP,BJP
+554,Visakhapatnam (Vizag),75,Male,Primary,Private Job,High,Urban,5,3,4,2,5,4,2,4,3,3,3,4,4,BJP,YSRCP
+555,Visakhapatnam (Vizag),39,Female,Graduate,Private Job,Middle,Rural,4,4,4,2,4,4,3,3,4,4,4,4,4,BJP,TDP
+556,Visakhapatnam (Vizag),66,Male,Secondary,Fisherman,Low,Urban,4,3,5,2,3,5,3,3,4,3,4,4,4,YSRCP,YSRCP
+557,Visakhapatnam (Vizag),69,Male,Secondary,Fisherman,Low,Urban,4,4,3,4,3,3,4,4,2,3,3,3,3,JanaSena,BJP
+558,Visakhapatnam (Vizag),59,Male,Postgraduate,Fisherman,Low,Urban,2,3,4,3,3,4,2,3,3,4,3,5,5,JanaSena,JanaSena
+559,Visakhapatnam (Vizag),23,Male,Graduate,Private Job,Low,Urban,4,4,4,2,4,4,3,3,3,4,3,4,4,YSRCP,YSRCP
+560,Visakhapatnam (Vizag),32,Female,Graduate,Government Employee,Low,Urban,5,5,4,2,4,5,3,2,3,4,4,4,4,YSRCP,YSRCP
+561,Visakhapatnam (Vizag),71,Female,Graduate,Private Job,Middle,Coastal,3,4,5,3,5,4,3,3,4,4,3,4,4,None,YSRCP
+562,Visakhapatnam (Vizag),60,Male,Graduate,Self-Employed,High,Coastal,4,3,3,4,3,4,4,4,4,3,4,4,3,BJP,BJP
+563,Visakhapatnam (Vizag),77,Female,Primary,Fisherman,Low,Urban,4,4,4,3,4,5,2,3,3,3,4,4,3,YSRCP,YSRCP
+564,Visakhapatnam (Vizag),54,Female,Secondary,Student,Middle,Coastal,4,5,4,2,4,5,3,3,3,3,3,4,4,YSRCP,YSRCP
+565,Visakhapatnam (Vizag),50,Female,Secondary,Government Employee,Middle,Urban,4,5,5,2,4,5,3,3,3,3,4,4,4,YSRCP,YSRCP
+566,Visakhapatnam (Vizag),25,Female,Secondary,Private Job,Low,Urban,4,3,3,3,5,3,3,3,3,3,4,4,4,TDP,TDP
+567,Visakhapatnam (Vizag),70,Female,Graduate,Fisherman,Middle,Coastal,4,3,4,2,4,4,3,4,3,4,3,3,5,YSRCP,YSRCP
+568,Visakhapatnam (Vizag),77,Female,Secondary,Government Employee,Low,Urban,4,3,3,4,3,4,4,4,3,4,3,4,4,BJP,BJP
+569,Visakhapatnam (Vizag),61,Female,Secondary,Private Job,Low,Coastal,5,3,4,3,3,5,3,4,3,5,3,4,4,YSRCP,YSRCP
+570,Visakhapatnam (Vizag),61,Male,Secondary,Self-Employed,Middle,Urban,3,4,2,4,5,4,4,5,3,4,3,3,4,JanaSena,BJP
+571,Visakhapatnam (Vizag),22,Male,Primary,Private Job,Low,Coastal,5,4,4,3,4,4,3,3,4,4,4,3,4,None,YSRCP
+572,Visakhapatnam (Vizag),56,Female,Secondary,Self-Employed,High,Urban,4,4,3,3,4,3,3,3,3,4,5,4,4,TDP,TDP
+573,Visakhapatnam (Vizag),21,Male,Secondary,Private Job,Low,Urban,4,5,4,2,4,4,4,3,4,4,4,4,3,JanaSena,YSRCP
+574,Visakhapatnam (Vizag),23,Female,Secondary,Student,Middle,Urban,3,4,3,4,4,4,4,5,3,3,3,3,3,BJP,BJP
+575,Visakhapatnam (Vizag),62,Male,Primary,Government Employee,Low,Rural,4,3,4,3,4,4,4,4,4,4,3,4,3,JanaSena,JanaSena
+576,Visakhapatnam (Vizag),49,Male,Secondary,Student,Low,Rural,4,4,3,2,3,3,3,3,3,4,3,4,3,JanaSena,JanaSena
+577,Visakhapatnam (Vizag),69,Male,Graduate,Private Job,Low,Coastal,4,4,4,3,4,3,3,2,4,4,4,4,4,YSRCP,TDP
+578,Visakhapatnam (Vizag),47,Male,Secondary,Government Employee,Middle,Urban,4,4,3,2,4,4,2,4,3,4,4,3,3,TDP,TDP
+579,Visakhapatnam (Vizag),64,Female,Secondary,Private Job,Middle,Urban,3,4,2,5,4,3,5,4,3,4,3,3,3,BJP,BJP
+580,Visakhapatnam (Vizag),52,Female,Graduate,Student,Middle,Urban,4,4,3,4,4,3,5,4,3,3,3,3,4,BJP,BJP
+581,Visakhapatnam (Vizag),72,Female,Secondary,Private Job,Middle,Rural,4,3,5,3,5,5,3,3,3,4,3,4,4,YSRCP,YSRCP
+582,Visakhapatnam (Vizag),57,Female,Postgraduate,Self-Employed,Middle,Coastal,3,4,3,4,5,3,5,5,2,4,3,4,4,BJP,BJP
+583,Visakhapatnam (Vizag),69,Male,Secondary,Fisherman,Middle,Urban,3,4,3,4,3,4,3,4,4,5,4,3,5,TDP,TDP
+584,Visakhapatnam (Vizag),33,Male,Secondary,Self-Employed,Middle,Rural,5,4,5,3,4,5,2,3,3,4,3,4,4,None,YSRCP
+585,Visakhapatnam (Vizag),30,Female,Graduate,Self-Employed,Middle,Urban,4,4,4,2,3,5,3,3,3,4,3,4,3,YSRCP,BJP
+586,Visakhapatnam (Vizag),67,Female,Secondary,Self-Employed,Middle,Rural,5,5,5,3,4,5,3,3,3,3,3,4,4,JanaSena,YSRCP
+587,Visakhapatnam (Vizag),77,Male,Graduate,Private Job,Middle,Coastal,4,4,3,4,4,5,4,4,4,4,4,3,4,TDP,TDP
+588,Visakhapatnam (Vizag),59,Male,Secondary,Private Job,Low,Urban,5,4,4,2,3,4,4,4,3,4,3,5,4,YSRCP,YSRCP
+589,Visakhapatnam (Vizag),47,Male,Postgraduate,Self-Employed,Middle,Urban,5,4,5,3,3,3,3,3,4,3,3,4,3,YSRCP,YSRCP
+590,Visakhapatnam (Vizag),36,Female,Secondary,Private Job,Middle,Coastal,4,4,5,3,4,4,3,3,3,4,3,4,4,YSRCP,YSRCP
+591,Visakhapatnam (Vizag),34,Female,Secondary,Private Job,Low,Coastal,3,4,4,3,4,4,3,4,4,5,4,3,3,TDP,TDP
+592,Visakhapatnam (Vizag),73,Male,Graduate,Government Employee,Low,Rural,3,3,3,4,3,4,5,4,5,3,4,4,4,BJP,BJP
+593,Visakhapatnam (Vizag),36,Female,Primary,Student,Low,Rural,4,4,4,3,3,4,2,3,3,4,4,4,3,YSRCP,YSRCP
+594,Visakhapatnam (Vizag),45,Female,Secondary,Private Job,Middle,Urban,5,4,4,2,3,3,4,3,4,4,4,3,4,YSRCP,YSRCP
+595,Visakhapatnam (Vizag),75,Male,Graduate,Government Employee,Middle,Rural,4,4,5,1,3,3,3,4,4,4,4,3,3,None,YSRCP
+596,Visakhapatnam (Vizag),72,Female,Graduate,Self-Employed,Low,Coastal,4,3,4,4,3,5,3,3,5,3,3,4,3,YSRCP,JanaSena
+597,Visakhapatnam (Vizag),43,Female,Secondary,Fisherman,Middle,Rural,5,4,4,3,4,4,3,4,3,4,4,4,4,TDP,TDP
+598,Visakhapatnam (Vizag),54,Male,Graduate,Self-Employed,Middle,Urban,4,4,4,3,5,4,3,4,3,3,3,4,4,TDP,TDP
+599,Visakhapatnam (Vizag),43,Male,Postgraduate,Fisherman,Low,Urban,4,3,5,2,5,4,3,3,3,4,4,5,3,YSRCP,YSRCP
+600,Visakhapatnam (Vizag),70,Male,Postgraduate,Private Job,Middle,Urban,4,4,3,5,4,4,5,4,3,3,4,3,4,BJP,BJP
+601,Visakhapatnam (Vizag),79,Male,Primary,Fisherman,High,Urban,4,4,3,4,4,4,3,4,3,5,4,3,4,TDP,JanaSena
+602,Visakhapatnam (Vizag),40,Male,Graduate,Fisherman,Middle,Urban,4,4,5,2,4,4,4,3,2,3,3,4,3,YSRCP,BJP
+603,Visakhapatnam (Vizag),26,Female,Secondary,Self-Employed,Middle,Urban,4,4,4,3,4,5,3,3,3,4,3,4,4,YSRCP,YSRCP
+604,Visakhapatnam (Vizag),29,Male,Postgraduate,Private Job,High,Urban,4,4,3,4,3,4,3,3,4,4,4,4,4,TDP,TDP
+605,Visakhapatnam (Vizag),70,Male,Secondary,Private Job,Middle,Urban,4,4,2,4,4,4,5,4,3,4,3,4,3,BJP,BJP
+606,Visakhapatnam (Vizag),18,Female,Primary,Private Job,Low,Rural,4,3,3,4,2,4,3,3,4,3,3,5,4,JanaSena,JanaSena
+607,Visakhapatnam (Vizag),75,Female,Graduate,Government Employee,Middle,Urban,4,4,4,4,5,3,4,3,3,5,5,3,3,TDP,TDP
+608,Visakhapatnam (Vizag),75,Male,Secondary,Government Employee,Middle,Urban,4,5,3,4,4,3,4,5,3,3,3,3,4,BJP,BJP
+609,Visakhapatnam (Vizag),18,Male,Postgraduate,Private Job,Middle,Urban,4,4,4,3,3,4,3,3,3,3,4,3,4,YSRCP,YSRCP
+610,Visakhapatnam (Vizag),64,Male,Postgraduate,Private Job,Low,Urban,4,4,4,4,4,2,3,3,4,5,3,4,4,TDP,TDP
+611,Visakhapatnam (Vizag),51,Female,Graduate,Self-Employed,Middle,Rural,4,4,3,3,3,3,5,5,3,3,3,3,5,BJP,BJP
+612,Visakhapatnam (Vizag),49,Male,Primary,Private Job,Low,Urban,5,5,5,2,3,5,4,4,4,4,3,4,4,YSRCP,YSRCP
+613,Visakhapatnam (Vizag),79,Female,Graduate,Private Job,High,Coastal,3,3,4,3,3,4,3,3,4,4,3,5,4,JanaSena,JanaSena
+614,Visakhapatnam (Vizag),71,Female,Primary,Private Job,Low,Coastal,4,3,5,3,3,5,2,3,3,3,4,5,4,JanaSena,YSRCP
+615,Visakhapatnam (Vizag),65,Male,Primary,Student,Low,Rural,4,4,4,2,3,5,3,3,4,4,4,3,4,YSRCP,YSRCP
+616,Visakhapatnam (Vizag),42,Female,Graduate,Private Job,Low,Rural,4,4,3,4,4,4,3,4,4,4,4,4,4,TDP,TDP
+617,Visakhapatnam (Vizag),57,Female,Secondary,Private Job,Low,Coastal,4,5,2,3,3,3,3,4,5,3,4,4,4,TDP,TDP
+618,Visakhapatnam (Vizag),62,Male,Secondary,Private Job,Middle,Rural,3,4,3,4,4,3,5,4,3,4,4,4,3,BJP,BJP
+619,Visakhapatnam (Vizag),70,Female,Postgraduate,Self-Employed,High,Urban,3,4,5,3,3,4,4,4,3,4,4,5,4,YSRCP,YSRCP
+620,Visakhapatnam (Vizag),18,Male,Secondary,Private Job,Middle,Urban,3,4,3,4,4,4,5,5,4,4,3,3,4,BJP,BJP
+621,Visakhapatnam (Vizag),33,Female,Secondary,Student,Low,Coastal,4,4,4,3,5,4,4,3,3,4,3,4,3,BJP,TDP
+622,Visakhapatnam (Vizag),78,Female,Postgraduate,Private Job,Low,Urban,3,4,4,3,4,4,3,4,3,4,4,5,3,YSRCP,TDP
+623,Visakhapatnam (Vizag),56,Female,Primary,Private Job,Middle,Urban,3,3,4,3,3,5,3,2,4,3,3,4,4,JanaSena,JanaSena
+624,Visakhapatnam (Vizag),22,Female,Graduate,Student,High,Rural,4,4,3,4,3,4,4,4,4,4,3,3,4,BJP,BJP
+625,Visakhapatnam (Vizag),39,Female,Postgraduate,Private Job,Middle,Coastal,4,3,5,2,5,4,3,4,2,3,4,3,3,JanaSena,YSRCP
+626,Visakhapatnam (Vizag),46,Female,Postgraduate,Self-Employed,Middle,Urban,4,3,3,5,3,3,5,4,2,4,4,4,4,YSRCP,BJP
+627,Visakhapatnam (Vizag),72,Female,Graduate,Self-Employed,Low,Rural,4,5,3,3,5,4,3,2,2,4,3,4,4,YSRCP,YSRCP
+628,Visakhapatnam (Vizag),20,Female,Secondary,Self-Employed,Middle,Urban,4,3,4,2,3,4,3,4,4,4,3,4,4,YSRCP,YSRCP
+629,Visakhapatnam (Vizag),29,Male,Secondary,Fisherman,Middle,Rural,4,4,4,4,4,4,4,3,4,4,4,3,4,TDP,TDP
+630,Visakhapatnam (Vizag),43,Male,Graduate,Student,Low,Urban,4,4,3,3,4,5,3,4,4,3,3,4,3,JanaSena,BJP
+631,Visakhapatnam (Vizag),33,Male,Postgraduate,Private Job,Low,Urban,4,5,4,3,3,4,3,3,3,3,4,4,3,None,YSRCP
+632,Visakhapatnam (Vizag),68,Male,Secondary,Self-Employed,Middle,Coastal,4,4,3,4,3,3,4,4,4,3,3,4,3,BJP,BJP
+633,Visakhapatnam (Vizag),54,Male,Secondary,Government Employee,Low,Urban,5,4,5,2,4,4,3,4,3,4,3,4,3,YSRCP,YSRCP
+634,Visakhapatnam (Vizag),39,Female,Primary,Self-Employed,Low,Rural,3,4,3,4,4,3,4,4,3,4,4,4,4,BJP,BJP
+635,Visakhapatnam (Vizag),74,Male,Primary,Private Job,Middle,Urban,4,5,3,3,4,4,4,3,4,4,4,4,4,YSRCP,TDP
+636,Visakhapatnam (Vizag),46,Female,Graduate,Private Job,Low,Urban,4,4,3,4,4,4,5,4,3,4,4,4,3,BJP,BJP
+637,Visakhapatnam (Vizag),31,Male,Secondary,Fisherman,Low,Rural,4,4,4,3,4,4,4,3,4,4,3,4,3,YSRCP,YSRCP
+638,Visakhapatnam (Vizag),45,Female,Postgraduate,Student,Middle,Urban,3,4,3,4,4,3,5,4,3,4,3,4,4,BJP,BJP
+639,Visakhapatnam (Vizag),22,Female,Graduate,Private Job,Middle,Urban,4,3,4,4,3,4,3,3,3,3,4,3,3,JanaSena,JanaSena
+640,Visakhapatnam (Vizag),64,Male,Secondary,Private Job,Middle,Urban,5,3,4,3,4,3,4,5,3,3,3,3,3,BJP,BJP
+641,Visakhapatnam (Vizag),66,Female,Graduate,Student,Middle,Rural,4,3,2,3,5,4,3,3,4,4,4,3,3,TDP,TDP
+642,Visakhapatnam (Vizag),47,Male,Secondary,Government Employee,Middle,Coastal,3,3,3,3,3,5,4,4,3,4,3,4,3,BJP,JanaSena
+643,Visakhapatnam (Vizag),63,Female,Graduate,Private Job,Middle,Coastal,4,4,4,4,3,3,3,4,3,3,3,4,3,YSRCP,YSRCP
+644,Visakhapatnam (Vizag),79,Male,Graduate,Government Employee,Low,Urban,4,4,3,5,3,4,5,4,3,4,3,5,4,BJP,BJP
+645,Visakhapatnam (Vizag),69,Female,Graduate,Private Job,Middle,Urban,3,4,4,3,4,4,3,4,3,3,3,5,4,JanaSena,JanaSena
+646,Visakhapatnam (Vizag),22,Male,Graduate,Private Job,High,Urban,4,4,5,2,4,4,3,3,3,4,4,3,3,YSRCP,BJP
+647,Visakhapatnam (Vizag),29,Female,Secondary,Fisherman,Low,Coastal,4,5,3,3,4,3,3,4,3,5,4,3,4,TDP,TDP
+648,Visakhapatnam (Vizag),33,Female,Primary,Private Job,Low,Urban,4,4,4,2,5,4,3,3,4,4,3,4,3,YSRCP,YSRCP
+649,Visakhapatnam (Vizag),43,Male,Graduate,Private Job,Middle,Coastal,4,4,4,3,3,3,3,4,4,5,4,3,4,TDP,TDP
+650,Visakhapatnam (Vizag),43,Male,Primary,Student,Low,Urban,4,3,3,3,3,4,3,3,4,4,4,3,3,TDP,TDP
+651,Visakhapatnam (Vizag),65,Male,Secondary,Fisherman,Low,Coastal,5,5,4,3,4,5,3,4,3,4,4,4,4,YSRCP,YSRCP
+652,Visakhapatnam (Vizag),38,Male,Primary,Private Job,Middle,Coastal,4,3,3,4,4,4,4,4,4,4,4,3,4,YSRCP,YSRCP
+653,Visakhapatnam (Vizag),56,Female,Graduate,Self-Employed,High,Coastal,4,4,5,2,4,5,4,2,3,4,4,4,4,YSRCP,YSRCP
+654,Visakhapatnam (Vizag),53,Male,Secondary,Fisherman,Low,Urban,4,5,3,3,5,4,3,4,3,3,3,4,4,TDP,TDP
+655,Visakhapatnam (Vizag),50,Male,Graduate,Private Job,Low,Urban,5,4,4,3,4,4,2,4,3,4,3,4,4,YSRCP,YSRCP
+656,Visakhapatnam (Vizag),79,Male,Postgraduate,Student,Low,Urban,4,3,3,3,3,5,3,2,3,4,3,4,3,JanaSena,JanaSena
+657,Visakhapatnam (Vizag),47,Female,Primary,Self-Employed,Middle,Urban,4,3,4,3,4,4,3,3,4,4,4,4,4,YSRCP,YSRCP
+658,Visakhapatnam (Vizag),54,Male,Primary,Student,Middle,Urban,3,4,4,4,3,3,3,4,4,5,3,4,4,JanaSena,JanaSena
+659,Visakhapatnam (Vizag),40,Male,Secondary,Student,Low,Rural,3,5,3,4,4,4,3,4,4,4,4,4,4,TDP,TDP
+660,Visakhapatnam (Vizag),75,Male,Postgraduate,Self-Employed,Middle,Urban,5,4,5,3,5,3,4,3,5,4,4,4,3,YSRCP,YSRCP
+661,Visakhapatnam (Vizag),27,Male,Secondary,Private Job,Low,Rural,4,4,4,4,4,4,5,5,3,4,3,4,4,BJP,BJP
+662,Visakhapatnam (Vizag),71,Female,Secondary,Self-Employed,Middle,Rural,3,4,4,3,5,4,3,3,4,4,4,3,4,BJP,TDP
+663,Visakhapatnam (Vizag),22,Male,Primary,Fisherman,Middle,Urban,4,4,4,3,4,3,4,3,4,5,3,4,4,TDP,TDP
+664,Visakhapatnam (Vizag),53,Male,Graduate,Self-Employed,Middle,Coastal,4,4,5,3,3,4,3,3,4,4,3,4,4,BJP,YSRCP
+665,Visakhapatnam (Vizag),51,Female,Secondary,Private Job,Middle,Urban,3,5,4,4,4,4,3,3,4,4,4,4,4,TDP,TDP
+666,Visakhapatnam (Vizag),69,Female,Graduate,Government Employee,Low,Urban,4,4,3,3,4,4,4,4,3,3,3,4,5,JanaSena,YSRCP
+667,Visakhapatnam (Vizag),48,Male,Postgraduate,Private Job,Middle,Urban,4,4,4,2,4,4,3,4,4,4,3,5,4,YSRCP,YSRCP
+668,Visakhapatnam (Vizag),27,Female,Secondary,Student,Middle,Coastal,5,4,4,4,4,4,3,4,5,4,4,3,4,TDP,TDP
+669,Visakhapatnam (Vizag),75,Female,Graduate,Fisherman,Low,Urban,4,4,4,4,4,3,2,4,3,4,4,4,4,YSRCP,YSRCP
+670,Visakhapatnam (Vizag),36,Male,Primary,Self-Employed,Middle,Urban,3,4,5,3,3,4,3,4,3,4,5,5,4,YSRCP,YSRCP
+671,Visakhapatnam (Vizag),75,Female,Postgraduate,Self-Employed,Low,Rural,4,4,4,3,4,4,2,4,3,4,4,4,3,YSRCP,YSRCP
+672,Visakhapatnam (Vizag),49,Female,Graduate,Private Job,Middle,Urban,4,4,5,3,4,5,3,4,4,4,3,4,4,YSRCP,YSRCP
+673,Visakhapatnam (Vizag),18,Male,Postgraduate,Self-Employed,Low,Rural,4,5,4,2,3,5,3,4,4,4,4,4,4,YSRCP,YSRCP
+674,Visakhapatnam (Vizag),73,Male,Primary,Student,High,Coastal,3,4,4,3,4,3,4,4,3,4,3,4,4,JanaSena,JanaSena
+675,Visakhapatnam (Vizag),22,Male,Secondary,Government Employee,Low,Coastal,5,5,4,2,4,4,4,3,3,4,3,3,4,JanaSena,YSRCP
+676,Visakhapatnam (Vizag),62,Female,Secondary,Private Job,Middle,Urban,3,4,4,4,3,4,4,3,3,3,4,4,3,None,TDP
+677,Visakhapatnam (Vizag),21,Female,Secondary,Private Job,Middle,Urban,4,4,5,3,4,4,3,4,4,4,4,3,4,YSRCP,YSRCP
+678,Visakhapatnam (Vizag),33,Female,Secondary,Private Job,Middle,Urban,5,3,4,3,3,4,3,3,3,4,5,3,4,YSRCP,JanaSena
+679,Visakhapatnam (Vizag),41,Male,Secondary,Private Job,Low,Urban,5,5,3,2,4,4,3,3,3,4,3,4,3,YSRCP,YSRCP
+680,Visakhapatnam (Vizag),33,Female,Primary,Self-Employed,Middle,Urban,4,3,4,2,3,4,3,3,3,3,3,4,4,JanaSena,JanaSena
+681,Visakhapatnam (Vizag),72,Female,Secondary,Fisherman,Middle,Urban,5,5,3,3,4,3,3,3,4,4,4,3,4,TDP,TDP
+682,Visakhapatnam (Vizag),19,Male,Graduate,Self-Employed,Low,Coastal,5,3,5,2,4,5,3,3,4,4,4,3,4,JanaSena,YSRCP
+683,Visakhapatnam (Vizag),66,Male,Secondary,Private Job,Low,Coastal,4,4,4,3,3,4,3,4,4,4,3,4,4,JanaSena,JanaSena
+684,Visakhapatnam (Vizag),45,Female,Primary,Private Job,Middle,Urban,4,3,3,4,3,3,3,4,3,4,3,4,4,BJP,TDP
+685,Visakhapatnam (Vizag),49,Male,Secondary,Student,Middle,Urban,4,4,4,3,3,4,4,4,4,4,3,4,3,TDP,YSRCP
+686,Visakhapatnam (Vizag),44,Female,Primary,Self-Employed,Low,Urban,3,4,3,4,3,4,5,4,3,3,4,4,4,BJP,BJP
+687,Visakhapatnam (Vizag),37,Male,Postgraduate,Private Job,Low,Urban,3,3,4,3,4,5,4,3,4,3,4,4,4,JanaSena,JanaSena
+688,Visakhapatnam (Vizag),41,Male,Primary,Private Job,Low,Rural,4,4,4,3,4,4,3,3,3,4,4,3,5,YSRCP,TDP
+689,Visakhapatnam (Vizag),29,Male,Graduate,Private Job,Middle,Rural,4,4,5,3,4,4,3,3,3,4,4,4,3,YSRCP,YSRCP
+690,Visakhapatnam (Vizag),67,Male,Postgraduate,Fisherman,Middle,Coastal,3,4,4,4,4,3,5,5,4,3,4,4,4,None,BJP
+691,Visakhapatnam (Vizag),52,Female,Graduate,Private Job,Middle,Rural,4,3,3,4,4,3,4,4,4,4,4,4,3,TDP,BJP
+692,Visakhapatnam (Vizag),77,Male,Graduate,Private Job,High,Rural,4,3,3,3,3,4,3,3,3,3,3,4,3,JanaSena,JanaSena
+693,Visakhapatnam (Vizag),50,Female,Graduate,Private Job,Middle,Rural,3,4,3,3,4,4,4,4,3,4,3,4,3,BJP,BJP
+694,Visakhapatnam (Vizag),50,Female,Postgraduate,Student,Low,Urban,4,4,3,2,4,4,3,4,3,4,3,5,4,TDP,YSRCP
+695,Visakhapatnam (Vizag),78,Female,Graduate,Private Job,Low,Rural,4,4,4,4,3,4,4,4,4,3,4,4,3,JanaSena,JanaSena
+696,Visakhapatnam (Vizag),68,Male,Graduate,Private Job,Low,Urban,4,4,4,3,3,5,2,3,3,4,3,4,4,JanaSena,YSRCP
+697,Visakhapatnam (Vizag),60,Female,Graduate,Private Job,High,Urban,4,3,3,3,4,4,3,3,4,4,3,3,3,TDP,YSRCP
+698,Visakhapatnam (Vizag),54,Female,Secondary,Student,Middle,Urban,3,5,3,3,4,4,3,3,3,4,4,3,4,TDP,TDP
+699,Visakhapatnam (Vizag),29,Male,Graduate,Self-Employed,Low,Urban,5,4,4,3,4,4,4,3,4,4,5,4,5,YSRCP,TDP
+700,Visakhapatnam (Vizag),20,Male,Secondary,Private Job,Low,Coastal,4,5,3,3,3,3,4,3,3,4,4,5,3,TDP,YSRCP
+701,Visakhapatnam (Vizag),18,Female,Secondary,Student,Middle,Urban,3,4,3,3,3,4,3,4,3,3,4,4,4,BJP,BJP
+702,Visakhapatnam (Vizag),50,Female,Primary,Private Job,Middle,Urban,5,4,3,4,3,4,3,3,4,4,3,4,4,TDP,TDP
+703,Visakhapatnam (Vizag),57,Male,Primary,Private Job,Low,Urban,4,5,3,4,4,3,3,3,3,3,4,3,3,YSRCP,TDP
+704,Visakhapatnam (Vizag),27,Female,Secondary,Private Job,High,Rural,3,4,4,4,3,3,3,4,2,3,3,3,4,BJP,BJP
+705,Visakhapatnam (Vizag),60,Female,Primary,Private Job,Middle,Urban,4,4,3,3,4,4,3,3,4,4,4,4,5,TDP,TDP
+706,Visakhapatnam (Vizag),61,Female,Graduate,Student,Low,Coastal,4,4,4,2,4,5,3,4,3,4,3,4,4,JanaSena,YSRCP
+707,Visakhapatnam (Vizag),46,Female,Secondary,Self-Employed,Middle,Coastal,4,4,4,3,5,4,2,3,2,2,3,4,3,TDP,YSRCP
+708,Visakhapatnam (Vizag),30,Female,Graduate,Fisherman,Low,Rural,2,4,3,3,4,4,3,3,4,4,2,4,4,TDP,JanaSena
+709,Visakhapatnam (Vizag),29,Male,Primary,Government Employee,High,Rural,5,5,4,3,3,4,3,4,3,4,3,5,4,YSRCP,YSRCP
+710,Visakhapatnam (Vizag),48,Male,Secondary,Government Employee,High,Urban,3,5,4,4,3,4,3,3,4,3,3,3,3,JanaSena,TDP
+711,Visakhapatnam (Vizag),63,Male,Graduate,Fisherman,Middle,Urban,4,5,3,3,4,4,3,4,4,3,4,3,4,TDP,TDP
+712,Visakhapatnam (Vizag),19,Female,Graduate,Private Job,Middle,Coastal,4,5,3,4,4,4,4,3,4,4,4,3,4,TDP,TDP
+713,Visakhapatnam (Vizag),78,Female,Primary,Private Job,Low,Urban,4,4,4,2,4,4,3,4,4,4,3,4,4,None,YSRCP
+714,Visakhapatnam (Vizag),68,Male,Postgraduate,Fisherman,High,Urban,4,4,4,4,4,4,4,3,4,4,4,4,3,TDP,TDP
+715,Visakhapatnam (Vizag),67,Female,Postgraduate,Private Job,Middle,Rural,3,4,4,2,4,5,3,3,3,3,3,4,4,TDP,TDP
+716,Visakhapatnam (Vizag),52,Female,Secondary,Private Job,Middle,Urban,5,3,3,4,4,5,3,4,4,4,4,4,3,JanaSena,JanaSena
+717,Visakhapatnam (Vizag),40,Female,Secondary,Private Job,High,Coastal,5,4,3,3,3,4,4,3,4,4,3,4,4,YSRCP,YSRCP
+718,Visakhapatnam (Vizag),34,Male,Postgraduate,Student,High,Urban,3,5,3,3,4,5,2,4,4,4,5,3,4,TDP,TDP
+719,Visakhapatnam (Vizag),43,Female,Graduate,Government Employee,Middle,Coastal,4,3,4,3,5,3,2,4,4,5,5,4,3,TDP,TDP
+720,Visakhapatnam (Vizag),25,Male,Secondary,Self-Employed,Low,Rural,3,4,4,3,5,4,4,3,3,3,4,4,5,TDP,TDP
+721,Visakhapatnam (Vizag),46,Male,Graduate,Private Job,High,Coastal,4,4,3,4,3,3,5,5,3,4,3,4,3,TDP,BJP
+722,Visakhapatnam (Vizag),43,Male,Secondary,Student,Middle,Urban,4,4,4,3,4,4,3,3,3,3,4,3,4,YSRCP,YSRCP
+723,Visakhapatnam (Vizag),27,Male,Secondary,Self-Employed,High,Rural,4,4,4,3,3,4,2,4,3,4,4,4,4,YSRCP,YSRCP
+724,Visakhapatnam (Vizag),43,Male,Secondary,Government Employee,Middle,Coastal,4,4,3,4,4,3,4,4,3,3,3,4,3,BJP,BJP
+725,Visakhapatnam (Vizag),79,Female,Graduate,Private Job,Low,Urban,4,4,4,4,5,4,3,2,4,4,4,4,3,TDP,TDP
+726,Visakhapatnam (Vizag),51,Male,Graduate,Student,Low,Urban,3,4,4,4,4,3,3,3,4,5,4,4,5,TDP,TDP
+727,Visakhapatnam (Vizag),68,Female,Graduate,Private Job,Middle,Rural,4,5,4,3,4,4,2,3,4,4,3,4,3,TDP,TDP
+728,Visakhapatnam (Vizag),58,Male,Secondary,Private Job,Middle,Rural,4,4,5,2,4,4,3,4,4,3,3,3,4,TDP,YSRCP
+729,Visakhapatnam (Vizag),24,Female,Secondary,Private Job,Low,Urban,5,4,4,2,4,4,3,3,3,3,2,4,3,TDP,JanaSena
+730,Visakhapatnam (Vizag),21,Female,Secondary,Government Employee,Middle,Coastal,4,4,4,3,4,4,3,3,3,4,3,4,3,YSRCP,YSRCP
+731,Visakhapatnam (Vizag),75,Male,Graduate,Fisherman,Low,Urban,4,5,4,4,4,5,3,4,3,5,4,4,4,TDP,TDP
+732,Visakhapatnam (Vizag),70,Male,Secondary,Self-Employed,Middle,Urban,4,4,3,3,4,5,3,3,4,4,4,4,5,JanaSena,JanaSena
+733,Visakhapatnam (Vizag),67,Male,Primary,Government Employee,Middle,Coastal,5,4,4,3,3,4,4,3,3,4,4,3,4,TDP,YSRCP
+734,Visakhapatnam (Vizag),62,Female,Postgraduate,Private Job,Low,Rural,4,4,4,3,4,5,2,3,4,4,5,4,3,YSRCP,TDP
+735,Visakhapatnam (Vizag),28,Female,Primary,Self-Employed,Low,Coastal,5,4,5,2,3,4,3,4,4,4,4,5,4,YSRCP,YSRCP
+736,Visakhapatnam (Vizag),46,Male,Postgraduate,Private Job,Low,Coastal,4,5,4,4,4,3,3,3,4,4,4,4,3,TDP,TDP
+737,Visakhapatnam (Vizag),73,Female,Primary,Self-Employed,Middle,Urban,4,4,4,3,3,4,2,3,3,3,3,4,3,TDP,YSRCP
+738,Visakhapatnam (Vizag),53,Male,Graduate,Private Job,Low,Urban,3,3,4,3,3,4,2,3,3,4,3,4,4,YSRCP,JanaSena
+739,Visakhapatnam (Vizag),42,Male,Primary,Fisherman,Low,Urban,4,4,2,4,3,4,5,4,3,4,4,3,4,None,BJP
+740,Visakhapatnam (Vizag),38,Female,Postgraduate,Student,High,Rural,4,4,4,3,3,3,3,3,4,4,3,4,4,YSRCP,TDP
+741,Visakhapatnam (Vizag),78,Male,Secondary,Government Employee,Middle,Coastal,5,3,3,3,4,5,4,3,3,3,4,4,4,JanaSena,JanaSena
+742,Visakhapatnam (Vizag),74,Female,Primary,Student,Middle,Urban,4,4,4,3,4,4,3,3,4,5,4,3,4,TDP,TDP
+743,Visakhapatnam (Vizag),53,Male,Secondary,Self-Employed,High,Urban,3,4,3,3,5,3,3,3,3,4,4,3,4,YSRCP,TDP
+744,Visakhapatnam (Vizag),27,Female,Secondary,Student,Low,Urban,4,4,3,3,4,4,3,3,4,3,4,4,4,JanaSena,YSRCP
+745,Visakhapatnam (Vizag),54,Male,Secondary,Government Employee,Middle,Coastal,4,4,3,3,5,3,3,3,3,3,4,3,3,TDP,TDP
+746,Visakhapatnam (Vizag),26,Male,Postgraduate,Self-Employed,Middle,Urban,4,3,4,4,4,4,3,3,4,4,4,4,3,TDP,JanaSena
+747,Visakhapatnam (Vizag),41,Female,Secondary,Government Employee,Middle,Urban,4,4,4,3,4,4,3,3,3,4,3,4,3,TDP,YSRCP
+748,Visakhapatnam (Vizag),52,Male,Graduate,Private Job,Low,Rural,4,3,3,3,3,4,3,3,4,3,4,4,3,JanaSena,JanaSena
+749,Visakhapatnam (Vizag),66,Female,Graduate,Self-Employed,Middle,Coastal,4,4,4,2,3,5,2,4,3,4,3,4,3,None,YSRCP
+750,Visakhapatnam (Vizag),52,Female,Graduate,Private Job,Low,Rural,4,3,4,2,3,4,3,3,4,4,4,4,3,JanaSena,JanaSena
+751,Visakhapatnam (Vizag),65,Female,Primary,Student,Middle,Rural,4,4,4,3,3,5,3,2,3,4,4,4,3,JanaSena,JanaSena
+752,Visakhapatnam (Vizag),53,Female,Secondary,Self-Employed,Low,Urban,4,4,3,4,5,4,5,4,4,3,3,4,4,YSRCP,BJP
+753,Visakhapatnam (Vizag),35,Female,Graduate,Student,Low,Rural,4,3,3,3,3,3,5,5,3,3,3,4,4,BJP,BJP
+754,Visakhapatnam (Vizag),66,Female,Postgraduate,Government Employee,Low,Rural,4,4,5,4,3,3,3,3,4,4,4,4,4,TDP,YSRCP
+755,Visakhapatnam (Vizag),56,Female,Secondary,Student,Low,Coastal,3,4,3,4,4,3,4,4,3,4,4,4,3,None,BJP
+756,Visakhapatnam (Vizag),49,Female,Secondary,Private Job,Middle,Urban,3,3,3,3,4,4,4,3,3,3,4,4,4,JanaSena,JanaSena
+757,Visakhapatnam (Vizag),41,Male,Secondary,Self-Employed,Low,Urban,4,4,3,4,3,4,5,4,3,3,4,3,4,JanaSena,BJP
+758,Visakhapatnam (Vizag),40,Male,Postgraduate,Private Job,Middle,Urban,4,4,3,4,5,4,3,4,4,4,3,4,4,None,TDP
+759,Visakhapatnam (Vizag),79,Female,Secondary,Fisherman,Low,Urban,4,4,3,4,3,4,3,3,4,4,4,4,4,TDP,TDP
+760,Visakhapatnam (Vizag),49,Male,Secondary,Private Job,Low,Coastal,4,4,4,4,4,4,5,5,2,3,2,4,4,TDP,BJP
+761,Visakhapatnam (Vizag),54,Male,Postgraduate,Private Job,Middle,Urban,4,3,3,3,4,4,3,4,3,4,3,3,4,TDP,TDP
+762,Visakhapatnam (Vizag),29,Male,Primary,Private Job,Low,Urban,4,3,3,4,3,3,4,4,3,3,4,3,3,BJP,YSRCP
+763,Visakhapatnam (Vizag),66,Male,Primary,Self-Employed,Middle,Urban,3,4,3,4,5,3,3,4,3,4,3,3,4,TDP,TDP
+764,Visakhapatnam (Vizag),72,Female,Graduate,Private Job,Middle,Urban,5,4,4,3,4,3,3,3,3,4,3,4,4,YSRCP,YSRCP
+765,Visakhapatnam (Vizag),30,Female,Postgraduate,Private Job,Low,Urban,4,4,4,4,4,5,3,2,4,3,5,4,3,TDP,BJP
+766,Visakhapatnam (Vizag),40,Male,Secondary,Fisherman,Low,Urban,4,4,4,4,4,4,3,4,4,5,4,3,5,TDP,TDP
+767,Visakhapatnam (Vizag),42,Female,Secondary,Private Job,Low,Urban,4,5,4,3,4,4,3,3,3,3,4,4,3,YSRCP,YSRCP
+768,Visakhapatnam (Vizag),52,Female,Secondary,Government Employee,Low,Rural,5,4,4,2,4,5,3,2,4,5,3,4,4,YSRCP,YSRCP
+769,Visakhapatnam (Vizag),58,Male,Secondary,Fisherman,Low,Rural,3,4,3,4,5,5,3,3,4,4,4,4,4,YSRCP,TDP
+770,Visakhapatnam (Vizag),47,Female,Graduate,Private Job,Low,Urban,4,3,5,3,4,5,3,3,3,4,3,4,4,YSRCP,YSRCP
+771,Visakhapatnam (Vizag),34,Male,Secondary,Private Job,Low,Coastal,4,4,4,2,4,4,2,4,3,4,3,3,3,YSRCP,YSRCP
+772,Visakhapatnam (Vizag),66,Male,Secondary,Fisherman,Middle,Rural,5,4,3,4,4,4,5,3,4,4,3,3,4,BJP,BJP
+773,Visakhapatnam (Vizag),79,Female,Secondary,Private Job,Middle,Coastal,4,3,4,3,4,5,3,3,3,4,4,4,4,YSRCP,JanaSena
+774,Visakhapatnam (Vizag),37,Male,Graduate,Fisherman,Middle,Urban,2,4,3,4,4,4,5,3,3,4,3,4,3,BJP,BJP
+775,Visakhapatnam (Vizag),65,Female,Secondary,Student,Low,Urban,3,3,3,4,4,4,2,3,3,3,2,4,4,JanaSena,JanaSena
+776,Visakhapatnam (Vizag),42,Female,Postgraduate,Self-Employed,Low,Urban,4,5,3,4,4,3,4,4,3,4,4,4,4,BJP,BJP
+777,Visakhapatnam (Vizag),39,Male,Primary,Private Job,Middle,Urban,4,4,5,3,3,4,3,3,4,5,4,4,4,YSRCP,YSRCP
+778,Visakhapatnam (Vizag),30,Female,Graduate,Self-Employed,Middle,Urban,4,4,3,3,3,4,4,5,2,3,3,4,4,BJP,BJP
+779,Visakhapatnam (Vizag),76,Female,Graduate,Private Job,Middle,Coastal,4,5,2,3,3,4,4,3,3,4,4,3,3,TDP,BJP
+780,Visakhapatnam (Vizag),36,Male,Secondary,Private Job,Low,Urban,4,4,4,3,4,4,4,3,3,4,4,4,4,TDP,TDP
+781,Visakhapatnam (Vizag),66,Female,Secondary,Self-Employed,Middle,Urban,4,4,5,3,3,4,3,4,3,4,4,4,3,JanaSena,YSRCP
+782,Visakhapatnam (Vizag),53,Female,Secondary,Private Job,Middle,Rural,3,3,3,4,4,3,5,4,3,4,2,3,4,None,BJP
+783,Visakhapatnam (Vizag),29,Female,Secondary,Self-Employed,Low,Urban,5,3,4,4,3,5,3,4,3,3,4,4,3,YSRCP,YSRCP
+784,Visakhapatnam (Vizag),78,Female,Secondary,Fisherman,Middle,Rural,4,4,4,4,3,3,3,3,4,4,4,3,3,TDP,TDP
+785,Visakhapatnam (Vizag),58,Male,Primary,Private Job,Middle,Rural,4,5,4,3,3,4,3,3,3,3,4,5,4,YSRCP,YSRCP
+786,Visakhapatnam (Vizag),36,Female,Secondary,Fisherman,Low,Coastal,5,5,3,4,4,5,4,4,4,4,5,3,3,TDP,TDP
+787,Visakhapatnam (Vizag),29,Female,Graduate,Student,Low,Coastal,4,3,3,3,4,4,3,4,4,4,4,3,3,TDP,TDP
+788,Visakhapatnam (Vizag),26,Female,Secondary,Government Employee,Middle,Urban,3,4,5,2,4,4,3,4,3,4,3,3,5,YSRCP,YSRCP
+789,Visakhapatnam (Vizag),24,Female,Graduate,Student,High,Rural,4,4,3,4,4,4,4,3,3,5,4,4,5,JanaSena,TDP
+790,Visakhapatnam (Vizag),45,Female,Secondary,Private Job,Low,Coastal,4,4,2,4,4,3,3,4,4,4,3,3,5,TDP,TDP
+791,Visakhapatnam (Vizag),31,Male,Postgraduate,Private Job,Low,Coastal,4,4,2,4,4,4,4,4,3,3,3,4,4,BJP,TDP
+792,Visakhapatnam (Vizag),48,Female,Graduate,Fisherman,Low,Urban,3,3,4,4,3,4,3,3,3,4,4,3,5,None,JanaSena
+793,Visakhapatnam (Vizag),69,Female,Primary,Private Job,Middle,Coastal,4,5,3,3,4,4,3,4,4,5,4,4,4,JanaSena,TDP
+794,Visakhapatnam (Vizag),36,Female,Graduate,Self-Employed,Low,Urban,4,3,3,4,3,3,5,4,3,4,4,4,3,BJP,BJP
+795,Visakhapatnam (Vizag),75,Female,Primary,Private Job,High,Coastal,4,4,5,3,4,4,2,3,4,4,4,4,4,YSRCP,YSRCP
+796,Visakhapatnam (Vizag),64,Male,Secondary,Self-Employed,Low,Urban,5,4,5,2,4,4,3,3,3,4,4,4,5,YSRCP,YSRCP
+797,Visakhapatnam (Vizag),33,Male,Postgraduate,Self-Employed,Low,Rural,4,3,3,3,4,4,3,3,4,4,4,4,4,YSRCP,YSRCP
+798,Visakhapatnam (Vizag),70,Male,Secondary,Private Job,Middle,Coastal,4,4,3,3,4,4,2,3,5,4,5,4,5,TDP,TDP
+799,Visakhapatnam (Vizag),22,Male,Secondary,Government Employee,Middle,Urban,4,5,4,3,3,4,3,3,4,3,3,4,4,YSRCP,YSRCP
+800,Visakhapatnam (Vizag),52,Female,Graduate,Fisherman,Middle,Urban,4,4,3,2,4,4,3,3,4,4,4,4,3,YSRCP,YSRCP
+801,Visakhapatnam (Vizag),29,Female,Postgraduate,Fisherman,Low,Urban,3,3,3,4,3,4,5,4,3,4,3,3,3,BJP,BJP
+802,Visakhapatnam (Vizag),42,Female,Graduate,Fisherman,High,Coastal,4,4,2,4,4,4,5,5,3,3,4,4,4,BJP,BJP
+803,Visakhapatnam (Vizag),69,Male,Secondary,Government Employee,Low,Coastal,4,5,4,4,5,3,2,3,4,4,3,3,4,TDP,TDP
+804,Visakhapatnam (Vizag),76,Female,Graduate,Private Job,Middle,Rural,3,5,5,2,3,4,3,4,4,4,4,4,4,JanaSena,YSRCP
+805,Visakhapatnam (Vizag),38,Male,Secondary,Private Job,Low,Rural,4,4,5,3,4,4,3,3,4,4,3,4,4,YSRCP,TDP
+806,Visakhapatnam (Vizag),53,Male,Graduate,Private Job,Middle,Coastal,4,4,3,3,5,4,3,4,3,4,3,4,5,TDP,TDP
+807,Visakhapatnam (Vizag),70,Female,Postgraduate,Private Job,Middle,Urban,4,4,2,4,4,3,5,4,3,4,4,4,4,BJP,BJP
+808,Visakhapatnam (Vizag),40,Female,Graduate,Government Employee,Low,Urban,4,4,5,2,4,4,3,4,4,3,3,4,4,TDP,YSRCP
+809,Visakhapatnam (Vizag),33,Male,Postgraduate,Student,Middle,Rural,3,3,4,4,3,4,5,4,3,3,3,3,4,JanaSena,BJP
+810,Visakhapatnam (Vizag),74,Male,Primary,Fisherman,Low,Urban,4,3,4,3,3,5,2,3,3,4,3,4,3,JanaSena,JanaSena
+811,Visakhapatnam (Vizag),56,Male,Graduate,Private Job,Low,Urban,4,4,5,3,4,4,3,3,3,4,4,4,4,YSRCP,YSRCP
+812,Visakhapatnam (Vizag),62,Male,Graduate,Student,Middle,Urban,3,4,4,4,3,4,3,3,4,3,4,4,5,BJP,JanaSena
+813,Visakhapatnam (Vizag),70,Female,Primary,Private Job,Low,Urban,4,4,4,3,3,3,3,3,3,4,4,4,4,TDP,TDP
+814,Visakhapatnam (Vizag),59,Male,Postgraduate,Government Employee,Middle,Coastal,5,3,4,2,4,4,3,4,3,3,4,3,4,TDP,YSRCP
+815,Visakhapatnam (Vizag),75,Female,Secondary,Private Job,Low,Urban,4,4,3,3,4,3,3,4,4,5,3,3,4,YSRCP,TDP
+816,Visakhapatnam (Vizag),56,Male,Graduate,Private Job,Low,Rural,4,4,4,3,4,5,2,3,4,3,4,4,5,YSRCP,TDP
+817,Visakhapatnam (Vizag),31,Male,Graduate,Fisherman,Low,Urban,5,3,4,2,3,5,3,3,3,4,3,4,4,YSRCP,YSRCP
+818,Visakhapatnam (Vizag),48,Male,Graduate,Private Job,Low,Urban,4,4,3,4,4,3,3,4,5,3,4,4,4,TDP,TDP
+819,Visakhapatnam (Vizag),75,Male,Primary,Government Employee,Middle,Urban,3,4,3,4,3,4,5,5,3,4,3,3,3,BJP,BJP
+820,Visakhapatnam (Vizag),22,Male,Graduate,Private Job,Middle,Coastal,4,4,3,2,3,5,3,3,3,3,3,4,3,JanaSena,JanaSena
+821,Visakhapatnam (Vizag),52,Male,Secondary,Student,High,Rural,4,3,4,4,4,4,4,4,3,4,3,3,4,BJP,BJP
+822,Visakhapatnam (Vizag),40,Female,Postgraduate,Self-Employed,Middle,Coastal,5,4,4,3,4,4,3,4,3,4,4,4,4,YSRCP,JanaSena
+823,Visakhapatnam (Vizag),46,Male,Secondary,Private Job,Low,Rural,4,3,3,5,3,4,4,4,3,3,2,4,4,BJP,BJP
+824,Visakhapatnam (Vizag),60,Female,Secondary,Student,Low,Rural,3,4,3,3,3,4,3,3,4,4,3,4,3,TDP,TDP
+825,Visakhapatnam (Vizag),28,Male,Graduate,Private Job,Low,Rural,3,4,2,5,4,4,5,4,3,3,3,4,3,BJP,BJP
+826,Visakhapatnam (Vizag),35,Female,Secondary,Private Job,Low,Coastal,4,4,2,4,4,3,5,5,2,3,3,3,5,BJP,BJP
+827,Visakhapatnam (Vizag),64,Female,Graduate,Student,Middle,Coastal,3,4,3,3,3,4,3,3,3,4,4,4,4,JanaSena,JanaSena
+828,Visakhapatnam (Vizag),29,Female,Graduate,Private Job,Low,Urban,3,5,3,3,4,3,3,4,4,4,4,4,4,TDP,TDP
+829,Visakhapatnam (Vizag),26,Female,Postgraduate,Government Employee,Low,Rural,4,4,3,4,3,4,5,4,3,4,3,3,3,BJP,BJP
+830,Visakhapatnam (Vizag),27,Male,Graduate,Fisherman,High,Rural,4,4,4,2,4,4,3,4,3,3,3,4,4,TDP,YSRCP
+831,Visakhapatnam (Vizag),75,Female,Secondary,Government Employee,Middle,Rural,4,4,3,4,3,5,3,3,2,3,4,5,3,JanaSena,JanaSena
+832,Visakhapatnam (Vizag),61,Male,Primary,Self-Employed,Low,Urban,4,4,4,2,4,4,3,4,3,3,3,5,4,TDP,YSRCP
+833,Visakhapatnam (Vizag),34,Female,Primary,Self-Employed,Low,Coastal,5,5,4,2,3,4,3,3,4,4,3,4,4,YSRCP,YSRCP
+834,Visakhapatnam (Vizag),78,Male,Secondary,Student,Low,Coastal,5,4,2,4,4,4,2,3,3,4,3,4,4,YSRCP,YSRCP
+835,Visakhapatnam (Vizag),55,Male,Secondary,Student,Middle,Urban,3,4,5,4,3,3,3,3,3,4,3,2,4,BJP,BJP
+836,Visakhapatnam (Vizag),24,Female,Graduate,Government Employee,Low,Coastal,3,4,3,3,4,4,4,3,4,4,3,5,5,TDP,TDP
+837,Visakhapatnam (Vizag),63,Female,Graduate,Government Employee,Low,Urban,5,4,3,3,3,3,3,3,3,4,4,4,4,TDP,TDP
+838,Visakhapatnam (Vizag),30,Female,Secondary,Fisherman,Low,Urban,3,4,3,3,3,4,4,3,4,3,4,4,3,JanaSena,JanaSena
+839,Visakhapatnam (Vizag),57,Female,Graduate,Private Job,Middle,Urban,3,4,3,4,3,4,3,3,3,3,4,4,4,None,JanaSena
+840,Visakhapatnam (Vizag),59,Female,Postgraduate,Private Job,Low,Urban,5,4,4,3,4,4,4,3,3,3,3,3,4,None,TDP
+841,Visakhapatnam (Vizag),26,Male,Graduate,Self-Employed,Middle,Coastal,5,3,5,2,4,4,3,3,4,4,4,4,4,TDP,YSRCP
+842,Visakhapatnam (Vizag),67,Male,Graduate,Private Job,Middle,Urban,4,4,3,4,3,3,5,4,3,3,4,4,3,None,BJP
+843,Visakhapatnam (Vizag),44,Male,Secondary,Private Job,Middle,Urban,4,3,4,4,3,4,3,4,3,3,4,3,4,None,JanaSena
+844,Visakhapatnam (Vizag),75,Male,Secondary,Private Job,Low,Urban,5,4,4,3,5,3,3,4,4,4,4,4,4,BJP,TDP
+845,Visakhapatnam (Vizag),19,Female,Primary,Government Employee,Middle,Urban,3,4,3,3,4,4,2,3,3,4,3,4,4,YSRCP,TDP
+846,Visakhapatnam (Vizag),22,Male,Secondary,Student,Middle,Urban,4,3,4,2,4,5,3,3,3,4,4,4,4,YSRCP,YSRCP
+847,Visakhapatnam (Vizag),46,Female,Postgraduate,Private Job,Low,Rural,4,4,3,4,3,4,5,4,3,4,4,4,2,BJP,BJP
+848,Visakhapatnam (Vizag),54,Male,Graduate,Private Job,Middle,Urban,4,4,4,4,4,3,3,2,4,4,4,4,4,YSRCP,JanaSena
+849,Visakhapatnam (Vizag),55,Female,Secondary,Self-Employed,Low,Coastal,4,5,4,4,4,4,3,3,3,4,4,4,3,TDP,TDP
+850,Visakhapatnam (Vizag),36,Female,Secondary,Private Job,Low,Coastal,4,3,4,3,5,5,4,4,3,4,4,4,3,YSRCP,YSRCP
+851,Visakhapatnam (Vizag),25,Male,Graduate,Private Job,Middle,Urban,3,3,4,3,3,5,3,3,4,4,4,5,3,JanaSena,JanaSena
+852,Visakhapatnam (Vizag),65,Male,Primary,Government Employee,Low,Coastal,4,4,3,4,4,4,4,3,4,4,4,4,5,YSRCP,TDP
+853,Visakhapatnam (Vizag),62,Male,Secondary,Self-Employed,Middle,Urban,5,4,4,2,4,4,3,3,4,4,3,4,4,YSRCP,YSRCP
+854,Visakhapatnam (Vizag),18,Male,Postgraduate,Fisherman,Low,Urban,3,5,3,3,5,4,3,3,4,3,4,3,3,TDP,TDP
+855,Visakhapatnam (Vizag),39,Male,Secondary,Student,Middle,Urban,3,3,4,4,4,4,5,5,4,3,3,4,3,BJP,BJP
+856,Visakhapatnam (Vizag),69,Male,Primary,Self-Employed,High,Urban,4,4,3,4,4,5,3,4,4,4,4,4,4,TDP,TDP
+857,Visakhapatnam (Vizag),34,Male,Secondary,Private Job,Middle,Rural,3,4,4,4,3,3,4,4,3,3,4,4,4,BJP,BJP
+858,Visakhapatnam (Vizag),24,Female,Postgraduate,Self-Employed,Low,Coastal,4,3,4,4,4,4,3,3,4,4,3,4,4,TDP,TDP
+859,Visakhapatnam (Vizag),42,Female,Graduate,Student,Low,Urban,4,4,3,3,3,5,4,4,3,3,3,4,3,JanaSena,TDP
+860,Visakhapatnam (Vizag),62,Female,Secondary,Student,Middle,Rural,5,4,4,3,3,5,3,3,4,4,4,4,4,YSRCP,YSRCP
+861,Visakhapatnam (Vizag),21,Male,Secondary,Student,Low,Urban,4,3,3,3,4,4,2,3,4,4,3,4,4,YSRCP,YSRCP
+862,Visakhapatnam (Vizag),53,Female,Secondary,Fisherman,Low,Coastal,4,4,4,2,3,4,2,2,3,4,3,3,5,YSRCP,YSRCP
+863,Visakhapatnam (Vizag),23,Male,Graduate,Private Job,Middle,Urban,3,5,2,4,4,3,5,4,3,4,4,3,3,BJP,BJP
+864,Visakhapatnam (Vizag),77,Male,Graduate,Private Job,Middle,Urban,4,5,4,5,4,5,3,3,4,5,5,4,4,TDP,TDP
+865,Visakhapatnam (Vizag),48,Female,Primary,Private Job,High,Urban,3,4,4,3,4,4,3,3,3,4,3,4,4,TDP,JanaSena
+866,Visakhapatnam (Vizag),36,Male,Postgraduate,Private Job,Low,Urban,3,4,3,5,4,4,5,4,2,3,3,3,3,TDP,BJP
+867,Visakhapatnam (Vizag),78,Female,Primary,Self-Employed,Low,Rural,4,5,3,3,5,5,3,4,3,3,4,3,4,TDP,TDP
+868,Visakhapatnam (Vizag),61,Female,Secondary,Self-Employed,Low,Coastal,4,4,4,4,4,4,3,3,3,4,3,4,4,JanaSena,JanaSena
+869,Visakhapatnam (Vizag),71,Male,Primary,Government Employee,High,Urban,5,4,5,2,4,3,3,5,4,4,4,4,5,YSRCP,YSRCP
+870,Visakhapatnam (Vizag),56,Male,Secondary,Self-Employed,Middle,Rural,3,4,3,4,2,2,4,5,3,3,4,3,4,BJP,BJP
+871,Visakhapatnam (Vizag),44,Male,Secondary,Student,Middle,Rural,4,4,3,4,4,3,3,4,4,4,3,4,4,YSRCP,TDP
+872,Visakhapatnam (Vizag),27,Female,Secondary,Private Job,High,Coastal,4,4,3,3,4,3,2,4,4,4,4,3,4,TDP,TDP
+873,Visakhapatnam (Vizag),43,Male,Secondary,Private Job,Middle,Urban,4,4,2,5,4,4,4,4,4,3,3,4,3,BJP,BJP
+874,Visakhapatnam (Vizag),36,Male,Graduate,Private Job,Middle,Urban,3,4,4,3,4,4,3,4,4,4,4,4,4,TDP,TDP
+875,Visakhapatnam (Vizag),56,Male,Primary,Student,Low,Coastal,4,4,5,2,4,3,3,2,4,4,3,5,4,BJP,YSRCP
+876,Visakhapatnam (Vizag),79,Female,Graduate,Private Job,Middle,Rural,4,4,4,3,4,3,4,3,4,4,4,3,4,TDP,TDP
+877,Visakhapatnam (Vizag),20,Male,Postgraduate,Government Employee,Middle,Urban,3,4,4,5,4,4,3,3,3,5,4,4,5,TDP,TDP
+878,Visakhapatnam (Vizag),62,Male,Secondary,Fisherman,Middle,Urban,3,5,3,3,4,4,4,3,3,3,3,4,3,BJP,BJP
+879,Visakhapatnam (Vizag),30,Female,Secondary,Student,High,Urban,4,4,4,4,5,5,4,3,5,4,4,4,4,TDP,TDP
+880,Visakhapatnam (Vizag),67,Female,Secondary,Self-Employed,High,Rural,4,3,4,3,4,5,3,3,3,5,4,5,3,BJP,JanaSena
+881,Visakhapatnam (Vizag),45,Male,Primary,Student,Middle,Rural,4,4,4,3,4,3,4,4,4,3,3,4,4,TDP,BJP
+882,Visakhapatnam (Vizag),79,Male,Secondary,Self-Employed,Middle,Urban,4,5,4,3,5,4,3,3,3,4,3,4,4,TDP,TDP
+883,Visakhapatnam (Vizag),75,Male,Graduate,Self-Employed,Middle,Rural,4,4,3,4,4,4,4,3,3,4,3,3,3,BJP,BJP
+884,Visakhapatnam (Vizag),37,Female,Graduate,Self-Employed,Low,Rural,3,4,4,3,4,3,4,4,4,5,4,4,4,TDP,TDP
+885,Visakhapatnam (Vizag),45,Male,Primary,Self-Employed,Low,Rural,4,4,4,3,4,4,3,3,3,4,4,4,4,None,BJP
+886,Visakhapatnam (Vizag),25,Female,Graduate,Self-Employed,Middle,Rural,3,4,3,4,3,5,5,4,3,3,4,4,2,TDP,BJP
+887,Visakhapatnam (Vizag),78,Female,Secondary,Government Employee,Middle,Coastal,4,4,4,4,3,3,3,4,5,5,4,5,5,YSRCP,TDP
+888,Visakhapatnam (Vizag),58,Female,Graduate,Fisherman,Low,Urban,4,3,4,3,4,4,3,3,4,4,3,4,5,YSRCP,TDP
+889,Visakhapatnam (Vizag),56,Male,Graduate,Private Job,High,Coastal,3,4,3,4,4,4,3,4,4,4,4,4,4,TDP,TDP
+890,Visakhapatnam (Vizag),18,Female,Graduate,Government Employee,Low,Urban,4,4,5,2,4,4,3,3,4,3,3,4,3,YSRCP,BJP
+891,Visakhapatnam (Vizag),20,Female,Primary,Private Job,Low,Urban,4,4,3,4,4,3,3,4,3,3,3,2,3,BJP,BJP
+892,Visakhapatnam (Vizag),30,Female,Secondary,Private Job,Middle,Urban,4,4,4,2,4,5,3,3,4,5,4,5,4,YSRCP,YSRCP
+893,Visakhapatnam (Vizag),45,Male,Postgraduate,Self-Employed,Low,Urban,4,4,4,2,4,5,2,3,3,4,2,5,4,YSRCP,YSRCP
+894,Visakhapatnam (Vizag),79,Female,Secondary,Self-Employed,Low,Urban,5,4,4,3,4,4,3,3,3,5,4,4,4,YSRCP,YSRCP
+895,Visakhapatnam (Vizag),74,Male,Postgraduate,Self-Employed,Low,Urban,5,4,4,3,3,4,3,3,4,4,3,3,4,YSRCP,YSRCP
+896,Visakhapatnam (Vizag),77,Male,Secondary,Private Job,Middle,Coastal,5,3,4,3,4,4,2,3,3,3,3,5,3,YSRCP,YSRCP
+897,Visakhapatnam (Vizag),66,Male,Primary,Fisherman,Low,Urban,4,3,4,3,4,4,3,3,3,4,4,5,3,TDP,JanaSena
+898,Visakhapatnam (Vizag),42,Female,Primary,Fisherman,Middle,Rural,3,4,3,5,3,3,4,4,3,3,3,3,3,BJP,BJP
+899,Visakhapatnam (Vizag),73,Male,Secondary,Private Job,Middle,Urban,3,4,4,4,3,3,4,4,3,3,3,4,3,BJP,TDP
+900,Visakhapatnam (Vizag),50,Male,Postgraduate,Fisherman,Low,Coastal,4,4,3,4,4,4,4,4,2,4,3,4,3,YSRCP,TDP
+901,Visakhapatnam (Vizag),55,Male,Secondary,Fisherman,High,Rural,5,4,3,2,4,4,2,3,3,4,3,3,4,YSRCP,JanaSena
+902,Visakhapatnam (Vizag),70,Male,Secondary,Self-Employed,Low,Urban,4,4,5,3,3,5,2,3,4,4,4,3,3,BJP,JanaSena
+903,Visakhapatnam (Vizag),23,Female,Secondary,Student,High,Coastal,4,4,3,3,4,4,4,3,3,4,4,4,4,YSRCP,YSRCP
+904,Visakhapatnam (Vizag),75,Female,Primary,Private Job,Middle,Rural,5,3,3,3,4,4,3,3,4,4,4,4,4,TDP,YSRCP
+905,Visakhapatnam (Vizag),61,Male,Secondary,Fisherman,High,Coastal,4,5,4,3,5,5,3,4,3,5,3,3,4,TDP,TDP
+906,Visakhapatnam (Vizag),62,Male,Primary,Private Job,Low,Rural,4,4,5,3,3,4,3,3,4,4,3,4,3,YSRCP,YSRCP
+907,Visakhapatnam (Vizag),49,Female,Graduate,Fisherman,Middle,Rural,3,3,3,4,4,5,5,4,4,3,2,3,4,BJP,BJP
+908,Visakhapatnam (Vizag),62,Male,Secondary,Self-Employed,Low,Coastal,4,5,3,4,4,3,3,3,4,4,4,4,4,TDP,BJP
+909,Visakhapatnam (Vizag),78,Male,Secondary,Private Job,Low,Urban,3,3,3,4,4,3,4,5,2,3,3,4,3,YSRCP,BJP
+910,Visakhapatnam (Vizag),64,Female,Secondary,Private Job,Middle,Urban,4,4,3,4,3,4,3,3,4,4,3,4,4,TDP,TDP
+911,Visakhapatnam (Vizag),38,Female,Secondary,Private Job,Low,Coastal,4,5,4,2,3,4,4,3,4,4,4,4,4,TDP,BJP
+912,Visakhapatnam (Vizag),33,Male,Postgraduate,Fisherman,Middle,Urban,4,4,3,4,3,4,4,4,3,3,3,3,3,BJP,BJP
+913,Visakhapatnam (Vizag),71,Female,Secondary,Government Employee,Low,Urban,4,3,4,3,3,3,2,2,3,5,4,4,4,YSRCP,YSRCP
+914,Visakhapatnam (Vizag),38,Male,Primary,Student,Low,Urban,4,5,3,4,4,4,3,3,3,4,4,4,4,TDP,TDP
+915,Visakhapatnam (Vizag),28,Female,Graduate,Government Employee,Middle,Urban,4,4,3,3,3,4,2,3,3,4,3,4,4,YSRCP,YSRCP
+916,Visakhapatnam (Vizag),77,Male,Secondary,Fisherman,Low,Coastal,3,4,3,3,3,3,3,4,3,4,4,4,3,TDP,TDP
+917,Visakhapatnam (Vizag),54,Male,Primary,Government Employee,Middle,Urban,4,4,3,4,3,4,4,4,4,3,4,5,3,BJP,JanaSena
+918,Visakhapatnam (Vizag),53,Male,Postgraduate,Government Employee,Middle,Urban,5,5,4,2,3,4,3,3,4,4,4,3,4,YSRCP,TDP
+919,Visakhapatnam (Vizag),52,Female,Graduate,Self-Employed,Middle,Rural,4,3,4,3,4,4,3,4,4,3,4,5,3,TDP,JanaSena
+920,Visakhapatnam (Vizag),36,Female,Postgraduate,Private Job,Low,Coastal,4,4,4,4,3,5,3,3,3,3,2,5,3,JanaSena,JanaSena
+921,Visakhapatnam (Vizag),37,Male,Secondary,Private Job,Middle,Urban,3,4,3,4,3,3,4,4,3,4,3,3,3,TDP,TDP
+922,Visakhapatnam (Vizag),74,Male,Secondary,Government Employee,High,Urban,3,4,3,2,4,3,4,5,4,3,3,4,3,BJP,JanaSena
+923,Visakhapatnam (Vizag),35,Female,Secondary,Government Employee,Middle,Coastal,5,4,4,3,4,4,3,3,4,4,3,4,4,YSRCP,YSRCP
+924,Visakhapatnam (Vizag),64,Male,Secondary,Private Job,Middle,Rural,4,5,3,4,4,4,5,4,3,4,3,3,3,YSRCP,BJP
+925,Visakhapatnam (Vizag),58,Male,Graduate,Private Job,Middle,Urban,5,5,4,2,4,5,2,3,3,5,4,4,5,YSRCP,YSRCP
+926,Visakhapatnam (Vizag),66,Female,Secondary,Private Job,Middle,Urban,5,4,4,2,3,4,3,3,4,4,3,4,3,YSRCP,YSRCP
+927,Visakhapatnam (Vizag),31,Male,Graduate,Self-Employed,Middle,Urban,3,4,4,4,4,4,3,2,4,4,3,3,4,JanaSena,JanaSena
+928,Visakhapatnam (Vizag),32,Female,Graduate,Private Job,Low,Urban,4,5,3,3,5,4,4,4,3,4,3,4,4,TDP,TDP
+929,Visakhapatnam (Vizag),48,Female,Secondary,Self-Employed,Low,Urban,5,4,3,4,4,4,2,3,3,3,3,4,5,TDP,TDP
+930,Visakhapatnam (Vizag),18,Male,Secondary,Private Job,Middle,Coastal,4,4,4,2,3,3,4,3,3,4,4,5,4,YSRCP,YSRCP
+931,Visakhapatnam (Vizag),70,Male,Graduate,Self-Employed,Low,Urban,4,5,4,4,4,3,4,3,4,4,4,3,4,TDP,TDP
+932,Visakhapatnam (Vizag),71,Male,Secondary,Self-Employed,Middle,Rural,5,3,4,3,4,4,4,4,4,4,3,3,3,TDP,YSRCP
+933,Visakhapatnam (Vizag),71,Female,Graduate,Private Job,Low,Urban,4,4,4,2,3,4,3,4,4,3,3,5,4,YSRCP,YSRCP
+934,Visakhapatnam (Vizag),20,Female,Secondary,Self-Employed,Middle,Coastal,4,3,4,3,4,4,3,2,3,4,4,5,3,YSRCP,YSRCP
+935,Visakhapatnam (Vizag),33,Female,Secondary,Fisherman,Low,Rural,4,4,4,3,5,3,4,3,3,5,3,4,4,TDP,YSRCP
+936,Visakhapatnam (Vizag),40,Male,Graduate,Self-Employed,Low,Urban,4,5,4,3,3,4,3,3,3,4,4,4,4,TDP,TDP
+937,Visakhapatnam (Vizag),74,Female,Postgraduate,Government Employee,High,Rural,5,3,5,3,3,5,3,3,2,3,4,3,4,None,YSRCP
+938,Visakhapatnam (Vizag),28,Female,Secondary,Fisherman,Middle,Urban,4,4,3,4,3,2,4,3,3,4,3,4,3,JanaSena,BJP
+939,Visakhapatnam (Vizag),29,Female,Graduate,Government Employee,Middle,Coastal,4,5,4,3,3,4,3,4,3,4,3,4,3,YSRCP,YSRCP
+940,Visakhapatnam (Vizag),27,Female,Secondary,Self-Employed,Middle,Coastal,3,4,3,4,3,3,5,5,3,4,2,3,3,BJP,BJP
+941,Visakhapatnam (Vizag),49,Female,Graduate,Fisherman,Middle,Urban,3,4,4,3,4,4,3,4,4,3,4,4,3,JanaSena,JanaSena
+942,Visakhapatnam (Vizag),33,Female,Graduate,Government Employee,Middle,Urban,3,4,3,4,4,3,5,4,3,3,4,3,3,JanaSena,BJP
+943,Visakhapatnam (Vizag),25,Female,Secondary,Student,Middle,Urban,3,3,4,4,4,4,3,3,3,4,3,4,4,JanaSena,JanaSena
+944,Visakhapatnam (Vizag),55,Male,Secondary,Self-Employed,Low,Rural,3,4,4,3,3,5,2,3,4,4,3,3,4,JanaSena,JanaSena
+945,Visakhapatnam (Vizag),29,Male,Graduate,Private Job,Middle,Urban,4,5,4,4,5,3,4,4,4,4,3,4,4,YSRCP,TDP
+946,Visakhapatnam (Vizag),41,Female,Secondary,Private Job,Middle,Urban,4,4,3,4,2,3,5,3,3,4,3,3,3,BJP,BJP
+947,Visakhapatnam (Vizag),45,Male,Graduate,Fisherman,High,Urban,4,4,3,3,4,4,3,3,3,3,4,5,4,BJP,JanaSena
+948,Visakhapatnam (Vizag),70,Female,Primary,Government Employee,Low,Urban,3,4,4,2,3,4,3,3,4,3,3,4,4,TDP,TDP
+949,Visakhapatnam (Vizag),25,Female,Postgraduate,Private Job,Middle,Rural,4,5,4,2,4,4,3,3,3,4,3,4,4,None,YSRCP
+950,Visakhapatnam (Vizag),75,Female,Graduate,Self-Employed,Middle,Urban,3,4,4,3,4,4,3,3,4,3,4,4,3,YSRCP,JanaSena
+951,Visakhapatnam (Vizag),45,Male,Postgraduate,Fisherman,Low,Rural,3,3,3,4,3,3,5,3,3,3,4,3,3,BJP,BJP
+952,Visakhapatnam (Vizag),53,Male,Primary,Government Employee,Low,Urban,4,4,4,3,4,4,3,3,3,4,4,4,4,YSRCP,YSRCP
+953,Visakhapatnam (Vizag),43,Male,Graduate,Fisherman,Low,Urban,4,4,3,4,4,4,3,3,4,4,3,4,4,YSRCP,TDP
+954,Visakhapatnam (Vizag),25,Female,Graduate,Fisherman,Low,Rural,4,3,3,4,4,4,4,4,3,4,3,3,3,BJP,BJP
+955,Visakhapatnam (Vizag),75,Female,Secondary,Private Job,Low,Coastal,4,4,4,3,5,3,3,3,4,5,4,4,4,TDP,JanaSena
+956,Visakhapatnam (Vizag),77,Female,Secondary,Private Job,Middle,Coastal,4,4,3,4,3,4,4,4,3,4,4,3,5,None,TDP
+957,Visakhapatnam (Vizag),67,Male,Primary,Government Employee,Middle,Urban,3,4,3,4,4,5,4,4,3,3,4,3,4,BJP,BJP
+958,Visakhapatnam (Vizag),45,Female,Graduate,Self-Employed,Middle,Urban,5,3,4,4,4,5,3,4,4,3,3,4,4,TDP,TDP
+959,Visakhapatnam (Vizag),45,Female,Secondary,Government Employee,High,Coastal,4,5,3,3,4,3,2,4,3,4,5,4,4,YSRCP,TDP
+960,Visakhapatnam (Vizag),54,Male,Primary,Self-Employed,Low,Urban,4,5,3,3,4,4,5,4,4,3,3,5,4,BJP,BJP
+961,Visakhapatnam (Vizag),58,Female,Graduate,Self-Employed,Low,Urban,3,3,3,3,3,3,4,4,3,3,3,4,4,YSRCP,BJP
+962,Visakhapatnam (Vizag),53,Male,Secondary,Government Employee,Middle,Coastal,4,3,4,3,3,4,2,4,4,5,4,3,3,TDP,TDP
+963,Visakhapatnam (Vizag),44,Male,Primary,Self-Employed,Low,Coastal,4,5,3,3,3,4,3,3,3,4,3,4,4,TDP,TDP
+964,Visakhapatnam (Vizag),71,Female,Postgraduate,Government Employee,Low,Coastal,4,4,3,3,4,4,4,3,4,4,4,3,4,YSRCP,TDP
+965,Visakhapatnam (Vizag),34,Male,Postgraduate,Fisherman,Low,Coastal,4,5,4,4,4,4,3,4,3,5,4,4,3,BJP,BJP
+966,Visakhapatnam (Vizag),26,Female,Secondary,Student,Low,Coastal,5,3,4,2,3,5,3,4,3,4,3,4,3,TDP,YSRCP
+967,Visakhapatnam (Vizag),50,Female,Primary,Fisherman,Middle,Urban,5,4,3,3,5,4,4,3,4,3,4,4,4,YSRCP,YSRCP
+968,Visakhapatnam (Vizag),70,Female,Graduate,Government Employee,Low,Urban,5,4,3,3,4,4,3,4,4,5,3,4,4,TDP,TDP
+969,Visakhapatnam (Vizag),37,Male,Secondary,Student,Middle,Rural,4,4,3,4,4,4,4,4,3,4,4,3,3,BJP,BJP
+970,Visakhapatnam (Vizag),30,Female,Secondary,Fisherman,Low,Rural,4,4,4,3,4,5,3,3,3,5,3,4,4,TDP,YSRCP
+971,Visakhapatnam (Vizag),45,Female,Secondary,Private Job,Middle,Urban,4,4,5,2,3,5,4,3,3,4,4,4,3,TDP,YSRCP
+972,Visakhapatnam (Vizag),65,Female,Secondary,Self-Employed,Low,Urban,4,4,3,3,4,5,3,5,4,4,3,5,4,TDP,YSRCP
+973,Visakhapatnam (Vizag),46,Male,Graduate,Government Employee,Middle,Urban,3,3,4,3,3,4,5,5,3,4,3,3,4,BJP,BJP
+974,Visakhapatnam (Vizag),30,Male,Secondary,Private Job,Low,Rural,4,5,4,3,4,4,2,4,3,3,3,3,3,YSRCP,YSRCP
+975,Visakhapatnam (Vizag),63,Female,Graduate,Government Employee,Low,Urban,4,5,3,4,4,4,3,4,4,4,3,4,3,TDP,TDP
+976,Visakhapatnam (Vizag),52,Male,Postgraduate,Government Employee,Middle,Urban,3,4,3,1,4,4,3,3,3,4,3,3,4,BJP,TDP
+977,Visakhapatnam (Vizag),78,Female,Secondary,Private Job,Low,Rural,5,4,4,3,4,4,3,4,4,3,3,4,3,YSRCP,JanaSena
+978,Visakhapatnam (Vizag),23,Female,Graduate,Self-Employed,Low,Rural,4,5,2,3,4,4,3,2,4,4,3,4,4,TDP,TDP
+979,Visakhapatnam (Vizag),35,Male,Postgraduate,Government Employee,Low,Urban,4,4,5,3,3,4,3,3,3,3,4,2,4,TDP,YSRCP
+980,Visakhapatnam (Vizag),68,Female,Secondary,Private Job,High,Rural,4,4,3,4,4,4,3,4,4,4,5,3,3,TDP,TDP
+981,Visakhapatnam (Vizag),22,Female,Secondary,Self-Employed,Low,Rural,4,3,3,3,3,4,3,3,4,4,4,4,3,JanaSena,JanaSena
+982,Visakhapatnam (Vizag),64,Female,Graduate,Self-Employed,Middle,Urban,5,5,3,3,3,3,3,4,4,4,3,4,4,TDP,TDP
+983,Visakhapatnam (Vizag),42,Female,Graduate,Fisherman,Low,Urban,4,3,3,3,4,4,4,2,4,4,3,4,4,YSRCP,JanaSena
+984,Visakhapatnam (Vizag),19,Female,Graduate,Private Job,Low,Urban,4,4,3,5,4,4,4,5,4,3,4,4,3,BJP,BJP
+985,Visakhapatnam (Vizag),27,Male,Secondary,Private Job,Low,Urban,5,4,5,3,4,5,3,3,4,3,3,4,4,YSRCP,YSRCP
+986,Visakhapatnam (Vizag),73,Male,Postgraduate,Government Employee,High,Coastal,4,4,3,4,3,3,5,5,3,4,4,4,3,BJP,BJP
+987,Visakhapatnam (Vizag),47,Female,Primary,Government Employee,Low,Urban,5,4,4,2,4,4,3,4,3,4,4,4,4,BJP,BJP
+988,Visakhapatnam (Vizag),67,Male,Primary,Government Employee,Low,Rural,4,4,4,2,4,4,3,4,3,4,3,4,4,TDP,TDP
+989,Visakhapatnam (Vizag),76,Male,Graduate,Self-Employed,Low,Urban,4,4,4,3,4,3,3,4,4,5,2,5,4,YSRCP,JanaSena
+990,Visakhapatnam (Vizag),62,Male,Secondary,Student,Low,Urban,3,4,4,3,3,4,3,4,3,4,3,4,4,YSRCP,YSRCP
+991,Visakhapatnam (Vizag),22,Female,Secondary,Fisherman,Low,Rural,3,4,4,3,4,4,3,4,3,3,4,4,3,TDP,JanaSena
+992,Visakhapatnam (Vizag),72,Female,Secondary,Private Job,Middle,Urban,5,5,4,2,3,4,3,3,3,3,3,4,4,YSRCP,JanaSena
+993,Visakhapatnam (Vizag),73,Female,Secondary,Private Job,Low,Urban,4,4,3,3,2,5,3,3,3,4,2,4,4,JanaSena,JanaSena
+994,Visakhapatnam (Vizag),50,Female,Primary,Private Job,Low,Urban,5,4,4,3,4,5,3,3,4,4,4,4,4,TDP,YSRCP
+995,Visakhapatnam (Vizag),71,Female,Postgraduate,Government Employee,Middle,Urban,4,4,5,2,4,4,3,3,4,3,4,4,3,None,YSRCP
+996,Visakhapatnam (Vizag),18,Male,Secondary,Self-Employed,Low,Rural,4,4,3,3,3,4,2,3,4,3,3,3,3,JanaSena,JanaSena
+997,Visakhapatnam (Vizag),35,Female,Graduate,Private Job,Low,Urban,4,5,2,4,3,4,4,3,4,5,4,4,3,TDP,TDP
+998,Visakhapatnam (Vizag),49,Male,Graduate,Government Employee,Low,Coastal,4,4,3,4,3,3,4,5,3,4,4,3,3,BJP,BJP
+999,Visakhapatnam (Vizag),64,Female,Postgraduate,Student,Middle,Rural,5,5,5,3,3,4,4,3,3,4,3,4,4,YSRCP,YSRCP
+1000,Visakhapatnam (Vizag),66,Female,Primary,Private Job,Low,Urban,3,4,4,4,4,4,4,3,3,5,3,5,4,TDP,TDP
