@@ -1,8 +1,8 @@
 # voter-data-survey-ml
 
  
-The objective of this project is to analyse voter behaviour in the Visakhapatnam (Vizag) constituency and predict 
-a voter’s party preference among YSRCP, TDP, BJP, and Jana Sena using survey-based demographic and issuerelated
+The objective of this project is to analyse voter behaviour in the Visakhapatnam. A synthetic data is generated with probabilistic stochastic simulation technique to predict 
+a voter’s party preference among survey-based demographic and issue related
 factors.The project aims to demonstrate how supervised machine learning can be used for election-related
 opinion analysis.
 
