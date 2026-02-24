@@ -1,7 +1,7 @@
 # voter-data-survey-ml
 
  
-The objective of this project is to analyse voter behaviour in the Visakhapatnam. A synthetic data is generated with probabilistic stochastic simulation technique to predict 
+The objective of this project is to analyse voter behaviour in an area. A synthetic data is generated with probabilistic stochastic simulation technique to predict 
 a voter’s party preference among survey-based demographic and issue related
 factors.The project aims to demonstrate how supervised machine learning can be used for election-related
 opinion analysis.
@@ -11,4 +11,4 @@ demographic attributes and numerical issue-based ratings, and a discrete target 
 Since the target variable has more than two possible classes and class proportions are not perfectly balanced, the 
 problem requires models capable of handling multiclass classification with robustness to class imbalance.
 Appropriate evaluation metrics and validation strategies are therefore necessary to ensure fair and reliable
-performance across all political parties
+performance across all parties
